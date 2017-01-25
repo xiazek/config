@@ -1,0 +1,21 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project 'zoomer'" />
+    <option name="defaultScopeName" value="Project 'zoomer'" />
+    <option name="SEARCH_SCOPE" value="Project 'zoomer'" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.es6</mask>
+      <mask>*.yml</mask>
+      <mask>*.rb</mask>
+    </recentFileMasks>
+  </component>
+</application>

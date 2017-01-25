@@ -1,0 +1,110 @@
+<application>
+  <component name="LocalDatabaseDriverManager" version="163">
+    <driver id="h2.unified" name="H2" dialect="H2">
+      <artifact name="H2" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="oracle" name="Oracle" dialect="Oracle">
+      <artifact name="Oracle" />
+      <option name="auto-sync" value="false" />
+      <option name="auto-commit" value="false" />
+    </driver>
+    <driver id="derby.embedded" name="Derby (Embedded)" dialect="Derby">
+      <artifact name="Apache Derby" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="sybase.jtds" name="Sybase (jTds)" dialect="Sybase">
+      <artifact name="jTDS (SQL Server and Sybase)" />
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="d5221283-a2c5-4126-a93a-0b54a57eb2f9" name="Rails komudom: development driver" dialect="SQLite" driver-class="org.sqlite.JDBC" icon="AllIcons.Providers.Sqlite">
+      <url-template name="default" template="jdbc:sqlite:{file::identifier.sqlite}?" />
+      <artifact name="Xerial SQLiteJDBC" use="true" version="3.8.11.2" />
+      <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/postgresql-9.3-1100.jdbc4.jar</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/postgresql-driver-license.txt</url>
+      </library>
+    </driver>
+    <driver id="sqlserver.jtds" name="SQL Server (jTds)" dialect="TSQL">
+      <artifact name="jTDS (SQL Server and Sybase)" />
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="hsqldb.local" name="HSQLDB (Local)" dialect="HSQLDB">
+      <artifact name="HSQLDB" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="derby.remote" name="Derby (Remote)" dialect="Derby">
+      <artifact name="Apache Derby" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="sqlite.xerial" name="Sqlite (Xerial)" dialect="SQLite">
+      <artifact name="Xerial SQLiteJDBC" use="true" version="3.8.11.2" />
+      <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+    </driver>
+    <driver id="sybase.ase" name="Sybase (Native)" dialect="Sybase">
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="postgresql" name="PostgreSQL" dialect="PostgreSQL">
+      <artifact name="PostgreSQL" use="true">
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/postgresql-9.3-1100.jdbc4.jar</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/postgresql-driver-license.txt</url>
+        </library>
+      </artifact>
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="db2" name="DB2 (LUW)" dialect="DB2">
+      <artifact name="DB2" />
+      <option name="auto-sync" value="false" />
+      <property name="retrieveMessagesFromServerOnGetMessage" value="true" />
+    </driver>
+    <driver id="sqlserver.ms" name="SQL Server (Microsoft)" dialect="TSQL">
+      <artifact name="SQL Server" />
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="0d7749df-7197-4f04-bcd2-32ae0ba0b831" name="Rails komudom: development driver" dialect="SQLite" driver-class="org.sqlite.JDBC" icon="AllIcons.Providers.Sqlite">
+      <url-template name="default" template="jdbc:sqlite:{file::identifier.sqlite}?" />
+      <artifact name="Xerial SQLiteJDBC" use="true" version="3.8.11.2" />
+      <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <library>
+        <url>file://$USER_HOME$/Library/Preferences/RubyMine50/jdbc-drivers/xerial-sqlite-license.txt</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/Library/Preferences/RubyMine50/jdbc-drivers/sqlite-jdbc-3.7.6.3-20110609.081603-3.jar</url>
+      </library>
+    </driver>
+    <driver id="db2.jtopen" name="DB2 (JTOpen)" dialect="DB2">
+      <artifact name="JTOpen (DB2 iSeries)" />
+      <option name="auto-sync" value="false" />
+      <property name="prompt" value="false" />
+    </driver>
+    <driver id="mysql" name="MySQL" dialect="MySQL">
+      <artifact name="MySQL Connector/J" />
+      <option name="auto-sync" value="true" />
+      <property name="autoReconnect" value="true" />
+      <property name="zeroDateTimeBehavior" value="convertToNull" />
+      <property name="tinyInt1isBit" value="false" />
+      <property name="characterEncoding" value="utf8" />
+      <property name="characterSetResults" value="utf8" />
+      <property name="yearIsDateType" value="false" />
+      <library>
+        <url>file://$USER_HOME$/Library/Preferences/RubyMine40/jdbc-drivers/mysql-connector-license.txt</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/Library/Preferences/RubyMine40/jdbc-drivers/mysql-connector-java-5.1.22-bin.jar</url>
+      </library>
+    </driver>
+    <driver id="hsqldb.remote" name="HSQLDB (Remote)" dialect="HSQLDB">
+      <artifact name="HSQLDB" />
+      <option name="auto-sync" value="true" />
+    </driver>
+  </component>
+</application>

@@ -1,0 +1,29 @@
+<application>
+  <component name="TextMateSettings">
+    <option name="themesMapping">
+      <map>
+        <entry key="AllHallowsEve" value="AllHallowsEve" />
+        <entry key="Blackboard" value="Blackboard" />
+        <entry key="Cobalt" value="Cobalt" />
+        <entry key="Darcula" value="Darcula" />
+        <entry key="Default" value="Mac Classic" />
+        <entry key="Github" value="Mac Classic" />
+        <entry key="Monokai" value="Monokai" />
+        <entry key="Railscasts" value="Mac Classic" />
+        <entry key="Twilight" value="Twilight" />
+        <entry key="VibrantInk" value="Mac Classic" />
+        <entry key="_@user_All hallow's eve" value="Mac Classic" />
+        <entry key="_@user_Blackboard" value="Mac Classic" />
+        <entry key="_@user_Cobalt" value="Mac Classic" />
+        <entry key="_@user_Darcula" value="Mac Classic" />
+        <entry key="_@user_Default" value="Mac Classic" />
+        <entry key="_@user_Github" value="Mac Classic" />
+        <entry key="_@user_Monokai" value="Mac Classic" />
+        <entry key="_@user_Railscasts" value="Mac Classic" />
+        <entry key="_@user_Twilight" value="Mac Classic" />
+        <entry key="_@user_VibrantInk" value="Mac Classic" />
+        <entry key="maciek" value="Mac Classic" />
+      </map>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,833 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="RVM: ruby-2.1.6" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.1.6p336 ( revision 50298) p336" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.1.6/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.6/lib/ruby/site_ruby/2.1.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.6/lib/ruby/site_ruby/2.1.0/x86_64-darwin14.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.6/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.6/lib/ruby/vendor_ruby/2.1.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.6/lib/ruby/vendor_ruby/2.1.0/x86_64-darwin14.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.6/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.6/lib/ruby/2.1.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.6/lib/ruby/2.1.0/x86_64-darwin14.0" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs21" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.6/lib/ruby/site_ruby/2.1.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.6/lib/ruby/site_ruby/2.1.0/x86_64-darwin14.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.6/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.6/lib/ruby/vendor_ruby/2.1.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.6/lib/ruby/vendor_ruby/2.1.0/x86_64-darwin14.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.6/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.6/lib/ruby/2.1.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.6/lib/ruby/2.1.0/x86_64-darwin14.0" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs21" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.1.6p336 ( revision 50298) p336" IS_RVM_SDK="true" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-2.1.6/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-2.1.6 [global]" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.1.6p336 ( revision 50298) p336" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.1.6/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.6/lib/ruby/site_ruby/2.1.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.6/lib/ruby/site_ruby/2.1.0/x86_64-darwin14.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.6/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.6/lib/ruby/vendor_ruby/2.1.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.6/lib/ruby/vendor_ruby/2.1.0/x86_64-darwin14.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.6/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.6/lib/ruby/2.1.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.6/lib/ruby/2.1.0/x86_64-darwin14.0" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs21" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.6/lib/ruby/site_ruby/2.1.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.6/lib/ruby/site_ruby/2.1.0/x86_64-darwin14.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.6/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.6/lib/ruby/vendor_ruby/2.1.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.6/lib/ruby/vendor_ruby/2.1.0/x86_64-darwin14.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.6/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.6/lib/ruby/2.1.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.1.6/lib/ruby/2.1.0/x86_64-darwin14.0" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs21" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.1.6p336 ( revision 50298) p336" IS_RVM_SDK="true" RVM_GEMSET_NAME="global" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-2.1.6/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-2.2.3" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.2.3p173 ( revision 51636) p173" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.2.3/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs22" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs22" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.2.3p173 ( revision 51636) p173" IS_RVM_SDK="true" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-2.2.3/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-2.2.3 [global]" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.2.3p173 ( revision 51636) p173" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.2.3/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs22" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs22" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.2.3p173 ( revision 51636) p173" IS_RVM_SDK="true" RVM_GEMSET_NAME="global" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-2.2.3/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-2.2.3 [zoomerweb]" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.2.3p173 ( revision 51636) p173" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.2.3/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs22" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs22" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.2.3p173 ( revision 51636) p173" IS_RVM_SDK="true" RVM_GEMSET_NAME="zoomerweb" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-2.2.3/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-2.2.3 [zoomer_api]" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.2.3p173 ( revision 51636) p173" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.2.3/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs22" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs22" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.2.3p173 ( revision 51636) p173" IS_RVM_SDK="true" RVM_GEMSET_NAME="zoomer_api" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-2.2.3/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-2.2.3 [turbocoupons]" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.2.3p173 ( revision 51636) p173" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.2.3/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs22" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs22" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.2.3p173 ( revision 51636) p173" IS_RVM_SDK="true" RVM_GEMSET_NAME="turbocoupons" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-2.2.3/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote:ruby-2.2.3-p173" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.2.3p173 ( revision 51636) p173" />
+      <homePath value="vagrant:///Users/maciek/work/zoomer/shift_planning/usr/local/rvm/rubies/ruby-2.2.3/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs22" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs22" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.2.3p173 ( revision 51636) p173" IS_RVM_SDK="false" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/Library/Caches/RubyMine80/ruby_stubs/-1476128135/-1630009885" DATA-VERSION="2" VAGRANT_FOLDER="$USER_HOME$/work/zoomer/shift_planning" INTERPRETER_PATH="/usr/local/rvm/rubies/ruby-2.2.3/bin/ruby" HELPERS_PATH="/home/vagrant/.rubymine_helpers" INITIALIZED="false" VALID="true">
+        <GEMS_ROOTS_URLS_ROOT GEMS_ROOTS_URL="file://$USER_HOME$/Library/Caches/RubyMine80/ruby_stubs/-1476128135/-1748719246/gems" />
+        <GEMS_ROOTS_URLS_ROOT GEMS_ROOTS_URL="file://$USER_HOME$/Library/Caches/RubyMine80/ruby_stubs/-1476128135/-1748719246/bundler/gems" />
+        <GEMS_ROOTS_URLS_ROOT GEMS_ROOTS_URL="file://$USER_HOME$/Library/Caches/RubyMine80/ruby_stubs/-1476128135/274269076/gems" />
+        <GEMS_ROOTS_URLS_ROOT GEMS_ROOTS_URL="file://$USER_HOME$/Library/Caches/RubyMine80/ruby_stubs/-1476128135/274269076/bundler/gems" />
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/RubyMine80/ruby_stubs/-1476128135/-1630009885" remote-root="/usr/local/rvm/rubies/ruby-2.2.3/bin" />
+              <mapping local-root="$USER_HOME$/Library/Caches/RubyMine80/ruby_stubs/-1476128135/-1748719246/bin" remote-root="/home/vagrant/.gem/ruby/2.2.0/bin" />
+              <mapping local-root="$USER_HOME$/Library/Caches/RubyMine80/ruby_stubs/-1476128135/-1748719246/gems" remote-root="/home/vagrant/.gem/ruby/2.2.0/gems" />
+              <mapping local-root="$USER_HOME$/Library/Caches/RubyMine80/ruby_stubs/-1476128135/-1748719246/specifications" remote-root="/home/vagrant/.gem/ruby/2.2.0/specifications" />
+              <mapping local-root="$USER_HOME$/Library/Caches/RubyMine80/ruby_stubs/-1476128135/-1748719246/bundler" remote-root="/home/vagrant/.gem/ruby/2.2.0/bundler" />
+              <mapping local-root="$USER_HOME$/Library/Caches/RubyMine80/ruby_stubs/-1476128135/274269076/bin" remote-root="/usr/local/rvm/rubies/ruby-2.2.3/lib/ruby/gems/2.2.0/bin" />
+              <mapping local-root="$USER_HOME$/Library/Caches/RubyMine80/ruby_stubs/-1476128135/274269076/gems" remote-root="/usr/local/rvm/rubies/ruby-2.2.3/lib/ruby/gems/2.2.0/gems" />
+              <mapping local-root="$USER_HOME$/Library/Caches/RubyMine80/ruby_stubs/-1476128135/274269076/specifications" remote-root="/usr/local/rvm/rubies/ruby-2.2.3/lib/ruby/gems/2.2.0/specifications" />
+              <mapping local-root="$USER_HOME$/Library/Caches/RubyMine80/ruby_stubs/-1476128135/274269076/bundler" remote-root="/usr/local/rvm/rubies/ruby-2.2.3/lib/ruby/gems/2.2.0/bundler" />
+            </list>
+          </option>
+        </PathMappingSettings>
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/RubyMine80/ruby_stubs/-1476128135/-1630009885" remote-root="/usr/local/rvm/rubies/ruby-2.2.3/bin" />
+              <mapping local-root="$USER_HOME$/Library/Caches/RubyMine80/ruby_stubs/-1476128135/-1748719246/bin" remote-root="/home/vagrant/.gem/ruby/2.2.0/bin" />
+              <mapping local-root="$USER_HOME$/Library/Caches/RubyMine80/ruby_stubs/-1476128135/-1748719246/gems" remote-root="/home/vagrant/.gem/ruby/2.2.0/gems" />
+              <mapping local-root="$USER_HOME$/Library/Caches/RubyMine80/ruby_stubs/-1476128135/-1748719246/specifications" remote-root="/home/vagrant/.gem/ruby/2.2.0/specifications" />
+              <mapping local-root="$USER_HOME$/Library/Caches/RubyMine80/ruby_stubs/-1476128135/-1748719246/bundler" remote-root="/home/vagrant/.gem/ruby/2.2.0/bundler" />
+              <mapping local-root="$USER_HOME$/Library/Caches/RubyMine80/ruby_stubs/-1476128135/274269076/bin" remote-root="/usr/local/rvm/rubies/ruby-2.2.3/lib/ruby/gems/2.2.0/bin" />
+              <mapping local-root="$USER_HOME$/Library/Caches/RubyMine80/ruby_stubs/-1476128135/274269076/gems" remote-root="/usr/local/rvm/rubies/ruby-2.2.3/lib/ruby/gems/2.2.0/gems" />
+              <mapping local-root="$USER_HOME$/Library/Caches/RubyMine80/ruby_stubs/-1476128135/274269076/specifications" remote-root="/usr/local/rvm/rubies/ruby-2.2.3/lib/ruby/gems/2.2.0/specifications" />
+              <mapping local-root="$USER_HOME$/Library/Caches/RubyMine80/ruby_stubs/-1476128135/274269076/bundler" remote-root="/usr/local/rvm/rubies/ruby-2.2.3/lib/ruby/gems/2.2.0/bundler" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-2.2.3 [geodata]" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.2.3p173 ( revision 51636) p173" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.2.3/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs22" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs22" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.2.3p173 ( revision 51636) p173" IS_RVM_SDK="true" RVM_GEMSET_NAME="geodata" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-2.2.3/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-2.3.0" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.3.0p0 ( revision 53290) p0" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.3.0/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/site_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/site_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/vendor_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/vendor_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/site_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/site_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/vendor_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/vendor_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs22" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.3.0p0 ( revision 53290) p0" IS_RVM_SDK="true" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-2.3.0/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-2.3.0 [global]" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.3.0p0 ( revision 53290) p0" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.3.0/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/did_you_mean-1.0.0/lib" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/site_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/site_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/vendor_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/vendor_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs22" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/did_you_mean-1.0.0/lib" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/site_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/site_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/vendor_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/vendor_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs22" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.3.0p0 ( revision 53290) p0" IS_RVM_SDK="true" RVM_GEMSET_NAME="global" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-2.3.0/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-2.3.0 [turbocoupons]" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.3.0p0 ( revision 53290) p0" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.3.0/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/site_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/site_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/vendor_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/vendor_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/site_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/site_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/vendor_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/vendor_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs22" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.3.0p0 ( revision 53290) p0" IS_RVM_SDK="true" RVM_GEMSET_NAME="turbocoupons" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-2.3.0/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-2.3.0 [zoomerweb]" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.3.0p0 ( revision 53290) p0" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.3.0/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/site_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/site_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/vendor_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/vendor_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/site_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/site_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/vendor_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/vendor_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.3.0p0 ( revision 53290) p0" IS_RVM_SDK="true" RVM_GEMSET_NAME="zoomerweb" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-2.3.0/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-2.3.1" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.3.1p112 ( revision 54768) p112" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.3.1/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.3.1p112 ( revision 54768) p112" IS_RVM_SDK="true" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-2.3.1/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-2.3.1 [global]" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.3.1p112 ( revision 54768) p112" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.3.1/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/did_you_mean-1.0.0/lib" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/did_you_mean-1.0.0/lib" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.3.1p112 ( revision 54768) p112" IS_RVM_SDK="true" RVM_GEMSET_NAME="global" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-2.3.1/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-2.3.1 [zoomerweb]" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.3.1p112 ( revision 54768) p112" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.3.1/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.3.1p112 ( revision 54768) p112" IS_RVM_SDK="true" RVM_GEMSET_NAME="zoomerweb" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-2.3.1/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-2.3.1 [zoomer_api]" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.3.1p112 ( revision 54768) p112" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.3.1/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.3.1p112 ( revision 54768) p112" IS_RVM_SDK="true" RVM_GEMSET_NAME="zoomer_api" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-2.3.1/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-2.3.1 [turbocoupons]" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.3.1p112 ( revision 54768) p112" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.3.1/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.3.1p112 ( revision 54768) p112" IS_RVM_SDK="true" RVM_GEMSET_NAME="turbocoupons" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-2.3.1/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-2.3.1 [zoomer-menus]" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.3.1p112 ( revision 54768) p112" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.3.1/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.3.1p112 ( revision 54768) p112" IS_RVM_SDK="true" RVM_GEMSET_NAME="zoomer-menus" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-2.3.1/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-2.3.1 [zoomer-menus-devops]" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.3.1p112 ( revision 54768) p112" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.3.1/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.3.1p112 ( revision 54768) p112" IS_RVM_SDK="true" RVM_GEMSET_NAME="zoomer-menus-devops" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-2.3.1/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-2.3.1 [zoomer-devops]" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.3.1p112 ( revision 54768) p112" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.3.1/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.3.1p112 ( revision 54768) p112" IS_RVM_SDK="true" RVM_GEMSET_NAME="zoomer-devops" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-2.3.1/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-2.3.1 [zoomer-terraform-module-menus]" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.3.1p112 ( revision 54768) p112" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.3.1/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.3.1p112 ( revision 54768) p112" IS_RVM_SDK="true" RVM_GEMSET_NAME="zoomer-terraform-module-menus" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-2.3.1/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="RVM: ruby-2.2.3 [routing]" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.2.3p173 ( revision 51636) p173" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-2.2.3/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs22" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0/x86_64-darwin14" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs22" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.2.3p173 ( revision 51636) p173" IS_RVM_SDK="true" RVM_GEMSET_NAME="routing" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-2.2.3/bin" />
+    </jdk>
+  </component>
+</application>

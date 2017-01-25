@@ -1,0 +1,8 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="go to test and split">
+      <action id="GotoTest" />
+      <action id="SplitVertically" />
+    </macro>
+  </component>
+</application>
