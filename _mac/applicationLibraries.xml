@@ -5662,6 +5662,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@routing/gems/bundler-1.13.6/man" />
       </SOURCES>
     </library>
+    <library name="bundler (v1.14.5, RVM: ruby-2.1.6) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/bundler-1.14.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/bundler-1.14.5/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/bundler-1.14.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/bundler-1.14.5/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/bundler-1.14.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/bundler-1.14.5/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/bundler-1.14.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/bundler-1.14.5/man" />
+      </SOURCES>
+    </library>
     <library name="bundler-unload (v1.0.2, RVM: ruby-2.1.6 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6@global/gems/bundler-unload-1.0.2/lib" />
@@ -17858,6 +17872,28 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/unicode_normalize" />
       </SOURCES>
     </library>
+    <library name="json (v1.8.6, RVM: ruby-2.1.6) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/json/1.8.6" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/json-1.8.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/json-1.8.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/json-1.8.6/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/json-1.8.6/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/json-1.8.6/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/json-1.8.6/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/json-1.8.6/diagrams" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/json/1.8.6" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/json-1.8.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/json-1.8.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/json-1.8.6/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/json-1.8.6/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/json-1.8.6/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/json-1.8.6/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/json-1.8.6/diagrams" />
+      </SOURCES>
+    </library>
     <library name="json-serializer (v0.0.9, RVM: ruby-2.2.3 [routing]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@routing/gems/json-serializer-0.0.9/lib" />
@@ -26056,6 +26092,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/rack-1.6.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/rack-1.6.4/contrib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/rack-1.6.4/example" />
+      </SOURCES>
+    </library>
+    <library name="rack (v1.6.5, RVM: ruby-2.1.6) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/rack-1.6.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/rack-1.6.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/rack-1.6.5/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/rack-1.6.5/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/rack-1.6.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/rack-1.6.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/rack-1.6.5/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/rack-1.6.5/example" />
       </SOURCES>
     </library>
     <library name="rack-accept (v0.4.5, RVM: ruby-2.2.3 [routing]) [gem]">
@@ -38014,6 +38064,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/thor-0.19.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/thor-0.19.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="thor (v0.19.4, RVM: ruby-2.1.6) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/thor-0.19.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/thor-0.19.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/thor-0.19.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/thor-0.19.4/lib" />
       </SOURCES>
     </library>
     <library name="thread_safe (v0.3.3, RVM: ruby-2.2.3 [zoomer_api]) [gem]">
