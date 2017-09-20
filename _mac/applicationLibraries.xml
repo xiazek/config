@@ -148,6 +148,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/actioncable-5.0.5/lib" />
       </SOURCES>
     </library>
+    <library name="actioncable (v5.0.6, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/actioncable-5.0.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/actioncable-5.0.6/lib" />
+      </SOURCES>
+    </library>
     <library name="actionmailer (v2.3.18, RVM: ruby-2.2.3 [turbocoupons]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@turbocoupons/gems/actionmailer-2.3.18/lib" />
@@ -490,6 +498,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/actionmailer-5.0.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionmailer (v5.0.6, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/actionmailer-5.0.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/actionmailer-5.0.6/lib" />
       </SOURCES>
     </library>
     <library name="actionpack (v2.3.18, RVM: ruby-2.2.3 [turbocoupons]) [gem]">
@@ -892,6 +908,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.5/lib" />
       </SOURCES>
     </library>
+    <library name="actionpack (v5.0.6, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.6/lib" />
+      </SOURCES>
+    </library>
     <library name="actionpack-action_caching (v1.1.1, RVM: ruby-2.2.3 [zoomerweb]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@zoomerweb/gems/actionpack-action_caching-1.1.1/lib" />
@@ -1260,6 +1284,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/actionview-5.0.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v5.0.6, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/actionview-5.0.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/actionview-5.0.6/lib" />
       </SOURCES>
     </library>
     <library name="active_admin_importable (v1.1.2, RVM: ruby-2.2.3 [zoomerweb]) [gem]">
@@ -1740,6 +1772,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/activejob-5.0.5/lib" />
       </SOURCES>
     </library>
+    <library name="activejob (v5.0.6, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/activejob-5.0.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/activejob-5.0.6/lib" />
+      </SOURCES>
+    </library>
     <library name="activemodel (v3.2.21, RVM: ruby-2.1.6) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.6/gems/activemodel-3.2.21/lib" />
@@ -2140,6 +2180,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/activemodel-5.0.5/lib" />
       </SOURCES>
     </library>
+    <library name="activemodel (v5.0.6, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/activemodel-5.0.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/activemodel-5.0.6/lib" />
+      </SOURCES>
+    </library>
     <library name="activerecord (v2.3.18, RVM: ruby-2.2.3 [turbocoupons]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@turbocoupons/gems/activerecord-2.3.18/lib" />
@@ -2498,6 +2546,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/activerecord-5.0.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="activerecord (v5.0.6, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/activerecord-5.0.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/activerecord-5.0.6/lib" />
       </SOURCES>
     </library>
     <library name="activerecord-deprecated_finders (v1.0.4, RVM: ruby-2.2.3 [turbocoupons]) [gem]">
@@ -3026,6 +3082,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/activesupport-5.0.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v5.0.6, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/activesupport-5.0.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/activesupport-5.0.6/lib" />
       </SOURCES>
     </library>
     <library name="addressable (v2.3.8, RVM: ruby-2.1.10) [gem]">
@@ -31132,6 +31196,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/rails-5.0.5" />
       </SOURCES>
     </library>
+    <library name="rails (v5.0.6, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/rails-5.0.6" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/rails-5.0.6" />
+      </SOURCES>
+    </library>
     <library name="rails-controller-testing (v0.1.1, RVM: ruby-2.4.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/rails-controller-testing-0.1.1/lib" />
@@ -32152,6 +32224,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/railties-5.0.5/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/railties-5.0.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="railties (v5.0.6, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/railties-5.0.6/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/railties-5.0.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/railties-5.0.6/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/railties-5.0.6/lib" />
       </SOURCES>
     </library>
     <library name="rainbow (v2.0.0, RVM: ruby-2.1.10) [gem]">
