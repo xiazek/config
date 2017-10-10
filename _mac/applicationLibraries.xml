@@ -4860,12 +4860,10 @@
     </library>
     <library name="bcrypt (v3.1.11, RVM: ruby-2.4.2 [turbocoupons]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/bcrypt-3.1.11/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/bcrypt-3.1.11/lib" />
       </SOURCES>
@@ -13810,14 +13808,12 @@
     </library>
     <library name="ffi (v1.9.18, RVM: ruby-2.4.2 [turbocoupons]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.18" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/ffi-1.9.18/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/ffi-1.9.18/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/ffi-1.9.18/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/ffi-1.9.18/libtest" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.18" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/ffi-1.9.18/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/ffi-1.9.18/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/ffi-1.9.18/lib" />
@@ -21776,7 +21772,6 @@
     </library>
     <library name="json (v2.1.0, RVM: ruby-2.4.2 [turbocoupons]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/2.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/json-2.1.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/json-2.1.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/json-2.1.0/data" />
@@ -21787,7 +21782,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/json-2.1.0/references" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/2.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/json-2.1.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/json-2.1.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/json-2.1.0/data" />
@@ -26726,13 +26720,11 @@
     </library>
     <library name="nio4r (v2.1.0, RVM: ruby-2.4.2 [turbocoupons]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/nio4r-2.1.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/nio4r-2.1.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/nio4r-2.1.0/tasks" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/nio4r-2.1.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/nio4r-2.1.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/nio4r-2.1.0/tasks" />
@@ -27306,7 +27298,6 @@
     </library>
     <library name="nokogiri (v1.8.1, RVM: ruby-2.4.2 [turbocoupons]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/nokogiri-1.8.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/nokogiri-1.8.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/nokogiri-1.8.1/lib" />
@@ -27315,7 +27306,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/nokogiri-1.8.1/suppressions" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/nokogiri-1.8.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/nokogiri-1.8.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/nokogiri-1.8.1/lib" />
@@ -27800,13 +27790,11 @@
     </library>
     <library name="oj (v3.3.6, RVM: ruby-2.4.2 [turbocoupons]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/oj/3.3.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/oj-3.3.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/oj-3.3.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/oj-3.3.6/pages" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/oj/3.3.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/oj-3.3.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/oj-3.3.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/oj-3.3.6/pages" />
@@ -28832,12 +28820,10 @@
     </library>
     <library name="pg (v0.21.0, RVM: ruby-2.4.2 [turbocoupons]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.21.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/pg-0.21.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/pg-0.21.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.21.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/pg-0.21.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/pg-0.21.0/lib" />
       </SOURCES>
@@ -30802,14 +30788,12 @@
     </library>
     <library name="puma (v3.10.0, RVM: ruby-2.4.2 [turbocoupons]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.10.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/puma-3.10.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/puma-3.10.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/puma-3.10.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/puma-3.10.0/tools" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.10.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/puma-3.10.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/puma-3.10.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/puma-3.10.0/lib" />
@@ -34558,13 +34542,11 @@
     </library>
     <library name="rb-fsevent (v0.10.2, RVM: ruby-2.4.2 [turbocoupons]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/rb-fsevent-0.10.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/rb-fsevent-0.10.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/rb-fsevent-0.10.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/rb-fsevent-0.10.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/rb-fsevent-0.10.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/rb-fsevent-0.10.2/lib" />
@@ -35758,13 +35740,11 @@
     </library>
     <library name="redcarpet (v3.4.0, RVM: ruby-2.4.2 [turbocoupons]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/redcarpet/3.4.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/redcarpet-3.4.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/redcarpet-3.4.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/redcarpet-3.4.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/redcarpet/3.4.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/redcarpet-3.4.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/redcarpet-3.4.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/redcarpet-3.4.0/lib" />
@@ -36624,13 +36604,11 @@
     </library>
     <library name="rmagick (v2.16.0, RVM: ruby-2.4.2 [turbocoupons]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rmagick/2.16.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/rmagick-2.16.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/rmagick-2.16.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/rmagick-2.16.0/deprecated" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rmagick/2.16.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/rmagick-2.16.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/rmagick-2.16.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/rmagick-2.16.0/deprecated" />
@@ -44944,12 +44922,10 @@
     </library>
     <library name="therubyracer (v0.12.3, RVM: ruby-2.4.2 [turbocoupons]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/therubyracer/0.12.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/therubyracer-0.12.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/therubyracer-0.12.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/therubyracer/0.12.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/therubyracer-0.12.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/therubyracer-0.12.3/lib" />
       </SOURCES>
@@ -48152,12 +48128,10 @@
     </library>
     <library name="websocket-driver (v0.6.5, RVM: ruby-2.4.2 [turbocoupons]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/websocket-driver-0.6.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/websocket-driver-0.6.5/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/websocket-driver-0.6.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/websocket-driver-0.6.5/lib" />
       </SOURCES>
