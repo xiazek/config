@@ -6674,6 +6674,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/bundler-1.15.4/task" />
       </SOURCES>
     </library>
+    <library name="bundler (v1.15.4, RVM: ruby-2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/bundler-1.15.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/bundler-1.15.4/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/bundler-1.15.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/bundler-1.15.4/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/bundler-1.15.4/task" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/bundler-1.15.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/bundler-1.15.4/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/bundler-1.15.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/bundler-1.15.4/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/bundler-1.15.4/task" />
+      </SOURCES>
+    </library>
     <library name="bundler (v1.15.4, RVM: ruby-2.4.2 [turbocoupons]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@turbocoupons/gems/bundler-1.15.4/bin" />
