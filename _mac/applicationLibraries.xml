@@ -1196,6 +1196,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/excon-0.60.0/data" />
       </SOURCES>
     </library>
+    <library name="excon (v0.62.0, RVM: ruby-2.4.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/excon-0.62.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/excon-0.62.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/excon-0.62.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/excon-0.62.0/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/excon-0.62.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/excon-0.62.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/excon-0.62.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/excon-0.62.0/benchmarks" />
+      </SOURCES>
+    </library>
     <library name="execjs (v2.6.0, RVM: ruby-2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/execjs-2.6.0/lib" />
@@ -1300,6 +1314,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/ffi-1.9.18/libtest" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/ffi-1.9.18/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/ffi-1.9.18/gen" />
+      </SOURCES>
+    </library>
+    <library name="ffi (v1.9.23, RVM: ruby-2.4.2) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.23" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/ffi-1.9.23/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/ffi-1.9.23/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/ffi-1.9.23/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.23" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/ffi-1.9.23/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/ffi-1.9.23/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/ffi-1.9.23/samples" />
       </SOURCES>
     </library>
     <library name="file_validators (v2.1.0, RVM: ruby-2.4.2) [gem]">
@@ -4542,6 +4570,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/sprockets-rails-3.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="statfire-social (v0.1.1@481808, RVM: ruby-2.4.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/bundler/gems/statfire-social-gem-481808bb2455/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/bundler/gems/statfire-social-gem-481808bb2455/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/bundler/gems/statfire-social-gem-481808bb2455/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/bundler/gems/statfire-social-gem-481808bb2455/bin" />
+      </SOURCES>
+    </library>
     <library name="statfire-social (v0.1.1@87ae09, RVM: ruby-2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/bundler/gems/statfire-social-gem-87ae092602aa/bin" />
@@ -4550,6 +4588,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/bundler/gems/statfire-social-gem-87ae092602aa/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/bundler/gems/statfire-social-gem-87ae092602aa/lib" />
+      </SOURCES>
+    </library>
+    <library name="statfire-utils (v0.0.3@436549, RVM: ruby-2.4.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/bundler/gems/statfire-utils-gem-436549bf15bb/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/bundler/gems/statfire-utils-gem-436549bf15bb/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/bundler/gems/statfire-utils-gem-436549bf15bb/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/bundler/gems/statfire-utils-gem-436549bf15bb/bin" />
       </SOURCES>
     </library>
     <library name="statfire-utils (v0.0.3@ee560d, RVM: ruby-2.4.2) [gem]">
