@@ -4570,6 +4570,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/sprockets-rails-3.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="statfire-social (v0.1.1@2d2085, RVM: ruby-2.4.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/bundler/gems/statfire-social-gem-2d20853f283e/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/bundler/gems/statfire-social-gem-2d20853f283e/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/bundler/gems/statfire-social-gem-2d20853f283e/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/bundler/gems/statfire-social-gem-2d20853f283e/bin" />
+      </SOURCES>
+    </library>
     <library name="statfire-social (v0.1.1@481808, RVM: ruby-2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/bundler/gems/statfire-social-gem-481808bb2455/lib" />
@@ -4588,6 +4598,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/bundler/gems/statfire-social-gem-87ae092602aa/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/bundler/gems/statfire-social-gem-87ae092602aa/lib" />
+      </SOURCES>
+    </library>
+    <library name="statfire-utils (v0.0.3@2659ff, RVM: ruby-2.4.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/bundler/gems/statfire-utils-gem-2659ffca6b2d/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/bundler/gems/statfire-utils-gem-2659ffca6b2d/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/bundler/gems/statfire-utils-gem-2659ffca6b2d/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/bundler/gems/statfire-utils-gem-2659ffca6b2d/bin" />
       </SOURCES>
     </library>
     <library name="statfire-utils (v0.0.3@436549, RVM: ruby-2.4.2) [gem]">
