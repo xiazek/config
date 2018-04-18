@@ -1094,6 +1094,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/capybara-2.13.0/lib" />
       </SOURCES>
     </library>
+    <library name="capybara (v2.18.0, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/capybara-2.18.0/.yard" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/capybara-2.18.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/capybara-2.18.0/.yard" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/capybara-2.18.0/lib" />
+      </SOURCES>
+    </library>
     <library name="capybara-ng (v0.2.1, RVM: ruby-2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/capybara-ng-0.2.1/travis" />
@@ -1168,6 +1178,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/capybara-webkit-1.14.0/src" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/capybara-webkit-1.14.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/capybara-webkit-1.14.0/bin" />
+      </SOURCES>
+    </library>
+    <library name="capybara-webkit (v1.15.0, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/capybara-webkit/1.15.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/capybara-webkit-1.15.0/src" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/capybara-webkit-1.15.0/templates" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/capybara-webkit-1.15.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/capybara-webkit-1.15.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/capybara-webkit-1.15.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/capybara-webkit/1.15.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/capybara-webkit-1.15.0/src" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/capybara-webkit-1.15.0/templates" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/capybara-webkit-1.15.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/capybara-webkit-1.15.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/capybara-webkit-1.15.0/bin" />
       </SOURCES>
     </library>
     <library name="carmen (v1.0.2, RVM: ruby-2.4.2) [gem]">
@@ -10966,6 +10994,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/xpath-2.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="xpath (v3.0.0, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/xpath-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/xpath-3.0.0/lib" />
       </SOURCES>
     </library>
     <library name="yomu (v0.1.5, RVM: ruby-2.4.2) [gem]">
