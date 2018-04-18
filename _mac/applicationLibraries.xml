@@ -1334,6 +1334,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/cld-0.7.0/ext" />
       </SOURCES>
     </library>
+    <library name="cliver (v0.3.2, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/cliver-0.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/cliver-0.3.2/.githooks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/cliver-0.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/cliver-0.3.2/.githooks" />
+      </SOURCES>
+    </library>
     <library name="codeclimate-test-reporter (v0.4.8, RVM: ruby-2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/codeclimate-test-reporter-0.4.8/lib" />
@@ -6488,6 +6498,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/platform-api-2.0.0/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/platform-api-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="poltergeist (v1.17.0, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/poltergeist-1.17.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/poltergeist-1.17.0/lib" />
       </SOURCES>
     </library>
     <library name="polyamorous (v1.3.1, RVM: ruby-2.4.2) [gem]">
