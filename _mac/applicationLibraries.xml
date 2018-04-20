@@ -1650,12 +1650,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/debase-0.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="debase (v0.2.2, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/debase-0.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/debase-0.2.2/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/debase-0.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/debase-0.2.2/ext" />
+      </SOURCES>
+    </library>
     <library name="debase-ruby_core_source (v0.10.2, RVM: ruby-2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/debase-ruby_core_source-0.10.2/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/debase-ruby_core_source-0.10.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.10.2, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/debase-ruby_core_source-0.10.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/debase-ruby_core_source-0.10.2/lib" />
       </SOURCES>
     </library>
     <library name="debug_inspector (v0.0.3, RVM: ruby-2.4.2) [gem]">
@@ -8228,6 +8246,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/ruby-debug-ide-0.7.0.beta2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/ruby-debug-ide-0.7.0.beta2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/ruby-debug-ide-0.7.0.beta2/bin" />
+      </SOURCES>
+    </library>
+    <library name="ruby-debug-ide (v0.7.0.beta4, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/ruby-debug-ide-0.7.0.beta4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/ruby-debug-ide-0.7.0.beta4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/ruby-debug-ide-0.7.0.beta4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/ruby-debug-ide-0.7.0.beta4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/ruby-debug-ide-0.7.0.beta4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/ruby-debug-ide-0.7.0.beta4/lib" />
       </SOURCES>
     </library>
     <library name="ruby-graphviz (v1.0.9, RVM: ruby-2.4.2) [gem]">
