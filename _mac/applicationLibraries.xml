@@ -1372,6 +1372,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/chromedriver-helper-1.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="chunky_png (v1.3.10, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/chunky_png-1.3.10/benchmarks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/chunky_png-1.3.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/chunky_png-1.3.10/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/chunky_png-1.3.10/benchmarks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/chunky_png-1.3.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/chunky_png-1.3.10/tasks" />
+      </SOURCES>
+    </library>
     <library name="cld (v0.7.0, RVM: ruby-2.4.2) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/cld/0.7.0" />
