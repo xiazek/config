@@ -10674,6 +10674,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rspec-3.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-collection_matchers (v1.1.3, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rspec-collection_matchers-1.1.3/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rspec-collection_matchers-1.1.3/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rspec-collection_matchers-1.1.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rspec-collection_matchers-1.1.3/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rspec-collection_matchers-1.1.3/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rspec-collection_matchers-1.1.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-core (v2.99.2, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rspec-core-2.99.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rspec-core-2.99.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rspec-core-2.99.2/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rspec-core-2.99.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rspec-core-2.99.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rspec-core-2.99.2/features" />
+      </SOURCES>
+    </library>
     <library name="rspec-core (v3.5.4, RVM: ruby-2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/rspec-core-3.5.4/lib" />
@@ -10720,6 +10744,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rspec-core-3.7.0/exe" />
       </SOURCES>
     </library>
+    <library name="rspec-expectations (v2.99.2, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rspec-expectations-2.99.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rspec-expectations-2.99.2/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rspec-expectations-2.99.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rspec-expectations-2.99.2/features" />
+      </SOURCES>
+    </library>
     <library name="rspec-expectations (v3.5.0, RVM: ruby-2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/rspec-expectations-3.5.0/lib" />
@@ -10758,6 +10792,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rspec-expectations-3.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-mocks (v2.99.4, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rspec-mocks-2.99.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rspec-mocks-2.99.4/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rspec-mocks-2.99.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rspec-mocks-2.99.4/features" />
       </SOURCES>
     </library>
     <library name="rspec-mocks (v3.5.0, RVM: ruby-2.4.2) [gem]">
@@ -10800,6 +10844,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rspec-mocks-3.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-rails (v2.99.0, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rspec-rails-2.99.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rspec-rails-2.99.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-rails (v3.5.0, RVM: ruby-2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/rspec-rails-3.5.0/lib" />
@@ -10822,6 +10874,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rspec-rails-3.7.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-rails-uncommitted (v2.0.0, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rspec-rails-uncommitted-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rspec-rails-uncommitted-2.0.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-sidekiq (v3.0.3, RVM: ruby-2.4.2) [gem]">
