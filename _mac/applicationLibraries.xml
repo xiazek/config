@@ -7500,6 +7500,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/newrelic_rpm-4.4.0.336/lib" />
       </SOURCES>
     </library>
+    <library name="newrelic_rpm (v5.1.0.344, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/newrelic_rpm-5.1.0.344/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/newrelic_rpm-5.1.0.344/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/newrelic_rpm-5.1.0.344/recipes" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/newrelic_rpm-5.1.0.344/cert" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/newrelic_rpm-5.1.0.344/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/newrelic_rpm-5.1.0.344/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/newrelic_rpm-5.1.0.344/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/newrelic_rpm-5.1.0.344/recipes" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/newrelic_rpm-5.1.0.344/cert" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/newrelic_rpm-5.1.0.344/config" />
+      </SOURCES>
+    </library>
     <library name="nio4r (v2.2.0, RVM: ruby-2.4.2) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.2.0" />
@@ -8830,6 +8846,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rack-cas-0.15.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-cas (v0.16.0, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rack-cas-0.16.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rack-cas-0.16.0/lib" />
       </SOURCES>
     </library>
     <library name="rack-contrib (v1.2.0, RVM: ruby-2.4.2) [gem]">
