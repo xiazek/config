@@ -1466,9 +1466,11 @@
     </library>
     <library name="byebug (v9.0.6, RVM: ruby-2.4.3) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/9.0.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/byebug-9.0.6/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/9.0.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/byebug-9.0.6/lib" />
       </SOURCES>
     </library>
@@ -7944,6 +7946,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/bundler/gems/accounts-gem-302c914dfc74/lib" />
       </SOURCES>
     </library>
+    <library name="paladin_accounts (v2.2.0@dbbf5d, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/bundler/gems/accounts-gem-dbbf5d1fff73/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/bundler/gems/accounts-gem-dbbf5d1fff73/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/bundler/gems/accounts-gem-dbbf5d1fff73/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/bundler/gems/accounts-gem-dbbf5d1fff73/bin" />
+      </SOURCES>
+    </library>
     <library name="paladin_common_api (v1.0.0@543dee, RVM: ruby-2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/bundler/gems/paladin-common-api-543dee11217b/config" />
@@ -7964,6 +7976,20 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/bundler/gems/paladin-common-api-543dee11217b/lib" />
+      </SOURCES>
+    </library>
+    <library name="paladin_common_api (v1.0.0@fc96cf, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/bundler/gems/paladin-common-api-fc96cf0a73fd/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/bundler/gems/paladin-common-api-fc96cf0a73fd/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/bundler/gems/paladin-common-api-fc96cf0a73fd/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/bundler/gems/paladin-common-api-fc96cf0a73fd/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/bundler/gems/paladin-common-api-fc96cf0a73fd/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/bundler/gems/paladin-common-api-fc96cf0a73fd/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/bundler/gems/paladin-common-api-fc96cf0a73fd/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/bundler/gems/paladin-common-api-fc96cf0a73fd/bin" />
       </SOURCES>
     </library>
     <library name="paper_trail (v6.0.2, RVM: ruby-2.4.2) [gem]">
