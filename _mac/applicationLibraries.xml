@@ -26,6 +26,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/aasm-4.12.0/lib" />
       </SOURCES>
     </library>
+    <library name="aasm (v4.12.3, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/aasm-4.12.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/aasm-4.12.3/lib" />
+      </SOURCES>
+    </library>
     <library name="actioncable (v5.0.5, RVM: ruby-2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/actioncable-5.0.5/lib" />
