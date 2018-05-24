@@ -13816,6 +13816,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/wkhtmltopdf-binary-edge-0.12.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="wkhtmltopdf-heroku (v2.12.4.0, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/wkhtmltopdf-heroku-2.12.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/wkhtmltopdf-heroku-2.12.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="xdan-datetimepicker-rails (v2.5.4, RVM: ruby-2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/xdan-datetimepicker-rails-2.5.4/app" />
