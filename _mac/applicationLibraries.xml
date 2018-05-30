@@ -668,6 +668,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/acts-as-taggable-on-5.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="acts-as-taggable-on (v5.0.0@73ab0c, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/bundler/gems/acts-as-taggable-on-73ab0cf1435d/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/bundler/gems/acts-as-taggable-on-73ab0cf1435d/lib" />
+      </SOURCES>
+    </library>
     <library name="acts_as_paranoid (v0.5.0, RVM: ruby-2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/acts_as_paranoid-0.5.0/lib" />
@@ -5974,6 +5982,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/i18n-0.9.1/lib" />
       </SOURCES>
     </library>
+    <library name="i18n (v0.9.5, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/i18n-0.9.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/i18n-0.9.5/lib" />
+      </SOURCES>
+    </library>
     <library name="i18n (v1.0.1, RVM: ruby-2.4.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/i18n-1.0.1/lib" />
@@ -8280,6 +8296,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/bundler/gems/paladin-common-api-543dee11217b/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/bundler/gems/paladin-common-api-543dee11217b/app" />
+      </SOURCES>
+    </library>
+    <library name="paladin_common_api (v1.0.0@59ca1a, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/bundler/gems/paladin-common-api-59ca1a212124/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/bundler/gems/paladin-common-api-59ca1a212124/app" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/bundler/gems/paladin-common-api-59ca1a212124/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/bundler/gems/paladin-common-api-59ca1a212124/app" />
       </SOURCES>
     </library>
     <library name="paladin_common_api (v1.0.0@fc96cf, RVM: ruby-2.4.3) [gem]">
