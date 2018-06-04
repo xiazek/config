@@ -4066,6 +4066,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/marcel-0.3.2/lib" />
       </SOURCES>
     </library>
+    <library name="masterlayout (v0.0.1@a9a77e, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/bundler/gems/masterlayout-a9a77ec76ad3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/bundler/gems/masterlayout-a9a77ec76ad3/app" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/bundler/gems/masterlayout-a9a77ec76ad3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/bundler/gems/masterlayout-a9a77ec76ad3/app" />
+      </SOURCES>
+    </library>
     <library name="masterlayout (v0.0.1@cb60e4, RVM: ruby-2.4.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/bundler/gems/masterlayout-cb60e4757d1a/lib" />
@@ -4770,6 +4780,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/bundler/gems/accounts-gem-dbbf5d1fff73/lib" />
+      </SOURCES>
+    </library>
+    <library name="paladin_accounts (v2.2.1@e41506, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/bundler/gems/accounts-gem-e415069193f9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/bundler/gems/accounts-gem-e415069193f9/lib" />
       </SOURCES>
     </library>
     <library name="paladin_common_api (v1.0.0@543dee, RVM: ruby-2.4.3) [gem]">
@@ -5522,6 +5540,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rails-assets-angular-messages-1.4.9/app" />
       </SOURCES>
     </library>
+    <library name="rails-assets-angular-minicolors (v0.0.11, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rails-assets-angular-minicolors-0.0.11/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rails-assets-angular-minicolors-0.0.11/app" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rails-assets-angular-minicolors-0.0.11/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rails-assets-angular-minicolors-0.0.11/app" />
+      </SOURCES>
+    </library>
     <library name="rails-assets-angular-mocks (v1.4.9, RVM: ruby-2.4.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rails-assets-angular-mocks-1.4.9/lib" />
@@ -5680,6 +5708,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rails-assets-jquery-2.1.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rails-assets-jquery-2.1.4/app" />
+      </SOURCES>
+    </library>
+    <library name="rails-assets-jquery-minicolors (v2.1.7, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rails-assets-jquery-minicolors-2.1.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rails-assets-jquery-minicolors-2.1.7/app" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rails-assets-jquery-minicolors-2.1.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rails-assets-jquery-minicolors-2.1.7/app" />
       </SOURCES>
     </library>
     <library name="rails-assets-jquery-ujs-standalone (v1.0.0, RVM: ruby-2.4.3) [gem]">
@@ -6088,6 +6126,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/ransack-1.8.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="rb-fsevent (v0.10.3, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rb-fsevent-0.10.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rb-fsevent-0.10.3/lib" />
       </SOURCES>
     </library>
     <library name="rb-fsevent (v0.10.3, RVM: ruby-2.4.4) [gem]">
