@@ -1278,6 +1278,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/childprocess-0.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="childprocess (v0.9.0, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/childprocess-0.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/childprocess-0.9.0/lib" />
+      </SOURCES>
+    </library>
     <library name="childprocess (v0.9.0, RVM: ruby-2.4.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/childprocess-0.9.0/lib" />
@@ -2502,11 +2510,9 @@
     </library>
     <library name="ffi (v1.9.23, RVM: ruby-2.4.3) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.23" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/ffi-1.9.23/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.23" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/ffi-1.9.23/lib" />
       </SOURCES>
     </library>
@@ -2516,6 +2522,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/ffi-1.9.23/lib" />
+      </SOURCES>
+    </library>
+    <library name="ffi (v1.9.25, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.25" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/ffi-1.9.25/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.25" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/ffi-1.9.25/lib" />
       </SOURCES>
     </library>
     <library name="file_validators (v2.1.0, RVM: ruby-2.4.3) [gem]">
@@ -4796,6 +4812,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/overcommit-0.40.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="overcommit (v0.45.0, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/overcommit-0.45.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/overcommit-0.45.0/lib" />
       </SOURCES>
     </library>
     <library name="paladin_accounts (v2.1.0@302c91, RVM: ruby-2.4.3) [gem]">
