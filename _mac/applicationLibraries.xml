@@ -5288,6 +5288,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/columnize-0.9.0/test" />
       </excluded>
     </library>
+    <library name="combine_pdf (v0.2.37, RVM: ruby-2.5.1) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/combine_pdf-0.2.37/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/combine_pdf-0.2.37/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/combine_pdf-0.2.37/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/combine_pdf-0.2.37/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/combine_pdf-0.2.37/test" />
+      </excluded>
+    </library>
     <library name="combine_pdf (v0.2.4, RVM: ruby-2.4.2) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/combine_pdf-0.2.4/lib" />
@@ -5531,6 +5544,33 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-0662c5e3cd1a/.git" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-0662c5e3cd1a/docs" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-0662c5e3cd1a/spec" />
+      </excluded>
+    </library>
+    <library name="contracts (v0.1.0@9d05de, RVM: ruby-2.5.1) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-9d05de66182b/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-9d05de66182b/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-9d05de66182b/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-9d05de66182b/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-9d05de66182b/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-9d05de66182b/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-9d05de66182b/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-9d05de66182b/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-9d05de66182b/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-9d05de66182b/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-9d05de66182b/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-9d05de66182b/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-9d05de66182b/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-9d05de66182b/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-9d05de66182b/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-9d05de66182b/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-9d05de66182b/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-9d05de66182b/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-9d05de66182b/spec" />
       </excluded>
     </library>
     <library name="cookiejar (v0.3.2, RVM: ruby-2.4.2) [gem]" type="ruby">
@@ -6268,6 +6308,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/debase-0.2.2/test" />
       </excluded>
     </library>
+    <library name="debase (v0.2.2, RVM: ruby-2.5.1) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/debase-0.2.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/debase-0.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/debase-0.2.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/debase-0.2.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/debase-0.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/debase-0.2.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/debase-0.2.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/debase-0.2.2/test" />
+      </excluded>
+    </library>
     <library name="debase (v0.2.3.beta1, RVM: ruby-2.4.3) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/debase-0.2.3.beta1/ext" />
@@ -6284,6 +6340,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/debase-0.2.3.beta1/test" />
       </excluded>
     </library>
+    <library name="debase (v0.2.3.beta1, RVM: ruby-2.5.1) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/debase-0.2.3.beta1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/debase-0.2.3.beta1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/debase-0.2.3.beta1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/debase-0.2.3.beta1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/debase-0.2.3.beta1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/debase-0.2.3.beta1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/debase-0.2.3.beta1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/debase-0.2.3.beta1/test" />
+      </excluded>
+    </library>
     <library name="debase-ruby_core_source (v0.10.2, RVM: ruby-2.4.2) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/debase-ruby_core_source-0.10.2/lib" />
@@ -6298,6 +6370,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/debase-ruby_core_source-0.10.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.10.3, RVM: ruby-2.5.1) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/debase-ruby_core_source-0.10.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/debase-ruby_core_source-0.10.3/lib" />
       </SOURCES>
     </library>
     <library name="debug_inspector (v0.0.2, RVM: ruby-2.3.1) [gem]" type="ruby">
@@ -21960,6 +22040,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pdf-core-0.6.0/spec" />
       </excluded>
     </library>
+    <library name="pdf-core (v0.6.1, RVM: ruby-2.5.1) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pdf-core-0.6.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pdf-core-0.6.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pdf-core-0.6.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pdf-core-0.6.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pdf-core-0.6.1/spec" />
+      </excluded>
+    </library>
     <library name="pg (v0.21.0, RVM: ruby-2.4.3) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.21.0" />
@@ -29028,6 +29121,22 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/ruby-debug-ide-0.7.0.beta4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/ruby-debug-ide-0.7.0.beta4/ext" />
+      </excluded>
+    </library>
+    <library name="ruby-debug-ide (v0.7.0.beta4, RVM: ruby-2.5.1) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-debug-ide-0.7.0.beta4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-debug-ide-0.7.0.beta4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-debug-ide-0.7.0.beta4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-debug-ide-0.7.0.beta4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-debug-ide-0.7.0.beta4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-debug-ide-0.7.0.beta4/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-debug-ide-0.7.0.beta4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-debug-ide-0.7.0.beta4/ext" />
       </excluded>
     </library>
     <library name="ruby-graphviz (v1.0.9, RVM: ruby-2.4.2) [gem]" type="ruby">
