@@ -1518,6 +1518,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/addressable-2.5.2/tasks" />
       </excluded>
     </library>
+    <library name="ahoy_email (v0.5.2, RVM: ruby-2.5.1) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ahoy_email-0.5.2/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ahoy_email-0.5.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ahoy_email-0.5.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ahoy_email-0.5.2/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ahoy_email-0.5.2/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ahoy_email-0.5.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ahoy_email-0.5.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ahoy_email-0.5.2/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ahoy_email-0.5.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ahoy_email-0.5.2/config" />
+      </excluded>
+    </library>
     <library name="airborne (v0.2.5, RVM: ruby-2.3.1) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/airborne-0.2.5/lib" />
@@ -8976,6 +8994,19 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/equalizer-0.0.11/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/equalizer-0.0.11/config" />
+      </excluded>
+    </library>
+    <library name="errbase (v0.1.0, RVM: ruby-2.5.1) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/errbase-0.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/errbase-0.1.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/errbase-0.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/errbase-0.1.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/errbase-0.1.0/test" />
       </excluded>
     </library>
     <library name="erubi (v1.7.0, RVM: ruby-2.4.2) [gem]" type="ruby">
@@ -29785,6 +29816,19 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/safe_yaml-1.0.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/safe_yaml-1.0.4/spec" />
+      </excluded>
+    </library>
+    <library name="safely_block (v0.2.1, RVM: ruby-2.5.1) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/safely_block-0.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/safely_block-0.2.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/safely_block-0.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/safely_block-0.2.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/safely_block-0.2.1/test" />
       </excluded>
     </library>
     <library name="sass (v3.4.23, RVM: ruby-2.4.1) [gem]" type="ruby">
