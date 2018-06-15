@@ -15519,6 +15519,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/httpi-2.4.1/spec" />
       </excluded>
     </library>
+    <library name="httpi (v2.4.3, RVM: ruby-2.5.1) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/httpi-2.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/httpi-2.4.3/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/httpi-2.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/httpi-2.4.3/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/httpi-2.4.3/spec" />
+      </excluded>
+    </library>
     <library name="i18n (v0.7.0, RVM: ruby-2.3.1) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/i18n-0.7.0/lib" />
@@ -31996,6 +32009,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/slop-3.6.0/test" />
+      </excluded>
+    </library>
+    <library name="socksify (v1.7.1, RVM: ruby-2.5.1) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/socksify-1.7.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/socksify-1.7.1/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/socksify-1.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/socksify-1.7.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/socksify-1.7.1/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/socksify-1.7.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/socksify-1.7.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/socksify-1.7.1/doc" />
       </excluded>
     </library>
     <library name="sort_alphabetical (v1.1.0, RVM: ruby-2.4.3) [gem]" type="ruby">
