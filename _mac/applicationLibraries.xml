@@ -22227,11 +22227,13 @@
     </library>
     <library name="pg (v1.0.0, RVM: ruby-2.5.1) [gem]" type="ruby">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/pg/1.0.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pg-1.0.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pg-1.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pg-1.0.0/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/pg/1.0.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pg-1.0.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pg-1.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pg-1.0.0/spec" />
@@ -32754,6 +32756,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/bundler/gems/statfire-utils-gem-436549bf15bb/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/bundler/gems/statfire-utils-gem-436549bf15bb/.git" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/bundler/gems/statfire-utils-gem-436549bf15bb/spec" />
+      </excluded>
+    </library>
+    <library name="statfire-utils (v0.0.3@e5346a, RVM: ruby-2.5.1) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/statfire-utils-gem-e5346a7801c8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/statfire-utils-gem-e5346a7801c8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/statfire-utils-gem-e5346a7801c8/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/statfire-utils-gem-e5346a7801c8/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/statfire-utils-gem-e5346a7801c8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/statfire-utils-gem-e5346a7801c8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/statfire-utils-gem-e5346a7801c8/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/statfire-utils-gem-e5346a7801c8/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/statfire-utils-gem-e5346a7801c8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/statfire-utils-gem-e5346a7801c8/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/statfire-utils-gem-e5346a7801c8/spec" />
       </excluded>
     </library>
     <library name="statfire-utils (v0.0.3@ee560d, RVM: ruby-2.4.2) [gem]" type="ruby">
