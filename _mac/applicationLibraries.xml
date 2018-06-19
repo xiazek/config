@@ -4298,6 +4298,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/capybara-webkit-1.15.0/templates" />
       </excluded>
     </library>
+    <library name="capybara-webmock (v0.4.0, RVM: ruby-2.5.1) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/capybara-webmock-0.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/capybara-webmock-0.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/capybara-webmock-0.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/capybara-webmock-0.4.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/capybara-webmock-0.4.0/bin" />
+      </excluded>
+    </library>
     <library name="carmen (v1.0.2, RVM: ruby-2.4.2) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/carmen-1.0.2/lib" />
