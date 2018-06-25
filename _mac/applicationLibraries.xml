@@ -19743,6 +19743,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/money-currencylayer-bank-0.5.6/test" />
       </excluded>
     </library>
+    <library name="money-open-exchange-rates (v1.2.2, RVM: ruby-2.5.1) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/money-open-exchange-rates-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/money-open-exchange-rates-1.2.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/money-open-exchange-rates-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/money-open-exchange-rates-1.2.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/money-open-exchange-rates-1.2.2/test" />
+      </excluded>
+    </library>
     <library name="money-openexchangerates-bank (v0.1.1, RVM: ruby-2.5.1) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/money-openexchangerates-bank-0.1.1/lib" />
