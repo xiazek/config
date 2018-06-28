@@ -32149,6 +32149,57 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel-4.45.0/spec" />
       </excluded>
     </library>
+    <library name="sequel (v4.49.0, RVM: ruby-2.5.1) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel-4.49.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel-4.49.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel-4.49.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel-4.49.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel-4.49.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel-4.49.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel-4.49.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel-4.49.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel-4.49.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel-4.49.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel-4.49.0/spec" />
+      </excluded>
+    </library>
+    <library name="sequel (v5.9.0, RVM: ruby-2.5.1) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel-5.9.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel-5.9.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel-5.9.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel-5.9.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel-5.9.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel-5.9.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel-5.9.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel-5.9.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel-5.9.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel-5.9.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel-5.9.0/spec" />
+      </excluded>
+    </library>
+    <library name="sequel_pg (v1.10.0, RVM: ruby-2.5.1) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel_pg-1.10.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel_pg-1.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel_pg-1.10.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel_pg-1.10.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel_pg-1.10.0/ext" />
+      </excluded>
+    </library>
     <library name="sequel_pg (v1.6.17, RVM: ruby-2.4.1) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/sequel_pg-1.6.17/ext" />
