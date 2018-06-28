@@ -6329,6 +6329,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/daemons-1.2.4/examples" />
       </excluded>
     </library>
+    <library name="daemons (v1.2.6, RVM: ruby-2.5.1) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/daemons-1.2.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/daemons-1.2.6/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/daemons-1.2.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/daemons-1.2.6/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/daemons-1.2.6/examples" />
+      </excluded>
+    </library>
     <library name="dalli (v2.7.6, RVM: ruby-2.4.1) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/dalli-2.7.6/lib" />
@@ -7565,6 +7578,14 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/docile-1.1.5/spec" />
       </excluded>
+    </library>
+    <library name="docile (v1.3.1, RVM: ruby-2.5.1) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/docile-1.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/docile-1.3.1/lib" />
+      </SOURCES>
     </library>
     <library name="dogstatsd (v2.0.0, RVM: ruby-2.3.1) [gem]" type="ruby">
       <CLASSES>
@@ -9730,6 +9751,34 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/eventmachine-1.2.3/tests" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/eventmachine-1.2.3/rakelib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/eventmachine-1.2.3/examples" />
+      </excluded>
+    </library>
+    <library name="eventmachine (v1.2.7, RVM: ruby-2.5.1) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/eventmachine-1.2.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/eventmachine-1.2.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/eventmachine-1.2.7/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/eventmachine-1.2.7/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/eventmachine-1.2.7/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/eventmachine-1.2.7/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/eventmachine-1.2.7/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/eventmachine-1.2.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/eventmachine-1.2.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/eventmachine-1.2.7/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/eventmachine-1.2.7/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/eventmachine-1.2.7/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/eventmachine-1.2.7/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/eventmachine-1.2.7/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/eventmachine-1.2.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/eventmachine-1.2.7/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/eventmachine-1.2.7/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/eventmachine-1.2.7/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/eventmachine-1.2.7/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/eventmachine-1.2.7/examples" />
       </excluded>
     </library>
     <library name="exception_notification (v4.2.1, RVM: ruby-2.4.1) [gem]" type="ruby">
@@ -33934,6 +33983,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/thin-1.6.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/thin-1.6.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/thin-1.6.2/example" />
+      </excluded>
+    </library>
+    <library name="thin (v1.7.2, RVM: ruby-2.5.1) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/thin-1.7.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/thin-1.7.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/thin-1.7.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/thin-1.7.2/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/thin-1.7.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/thin-1.7.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/thin-1.7.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/thin-1.7.2/example" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/thin-1.7.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/thin-1.7.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/thin-1.7.2/example" />
       </excluded>
     </library>
     <library name="thor (v0.19.1, RVM: ruby-2.3.1) [gem]" type="ruby">
