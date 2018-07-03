@@ -11737,6 +11737,7 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ffi/1.9.17" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ffi-1.9.17/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ffi-1.9.17/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ffi-1.9.17/lib" />
@@ -11744,6 +11745,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ffi-1.9.17/libtest" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ffi/1.9.17" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ffi-1.9.17/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ffi-1.9.17/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ffi-1.9.17/lib" />
@@ -23193,12 +23195,14 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/oj/3.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/oj-3.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/oj-3.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/oj-3.0.1/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/oj-3.0.1/pages" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/oj/3.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/oj-3.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/oj-3.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/oj-3.0.1/test" />
@@ -24383,11 +24387,13 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/pg/1.0.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pg-1.0.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pg-1.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pg-1.0.0/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/pg/1.0.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pg-1.0.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pg-1.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pg-1.0.0/spec" />
@@ -25802,6 +25808,7 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.9.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/puma-3.9.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/puma-3.9.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/puma-3.9.1/lib" />
@@ -25811,6 +25818,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/puma-3.9.1/gemfiles" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.9.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/puma-3.9.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/puma-3.9.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/puma-3.9.1/lib" />
@@ -29758,11 +29766,13 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/rb-fsevent/0.9.8" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rb-fsevent-0.9.8/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rb-fsevent-0.9.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rb-fsevent-0.9.8/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/rb-fsevent/0.9.8" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rb-fsevent-0.9.8/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rb-fsevent-0.9.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rb-fsevent-0.9.8/lib" />
@@ -32326,6 +32336,7 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ruby-prof/0.16.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-prof-0.16.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-prof-0.16.2/doc" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-prof-0.16.2/ext" />
@@ -32334,6 +32345,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-prof-0.16.2/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ruby-prof/0.16.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-prof-0.16.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-prof-0.16.2/doc" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-prof-0.16.2/ext" />
@@ -33855,10 +33867,12 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/sequel_pg/1.10.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel_pg-1.10.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel_pg-1.10.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/sequel_pg/1.10.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel_pg-1.10.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel_pg-1.10.0/lib" />
       </SOURCES>
