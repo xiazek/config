@@ -4985,6 +4985,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/carrierwave-1.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="carrierwave (v1.2.3, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/carrierwave-1.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/carrierwave-1.2.3/lib" />
+      </SOURCES>
+    </library>
     <library name="CFPropertyList (v2.3.3, RVM: ruby-2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/CFPropertyList-2.3.3/lib" />
@@ -6382,6 +6393,36 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-9d05de66182b/.git" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-9d05de66182b/docs" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-9d05de66182b/spec" />
+      </excluded>
+    </library>
+    <library name="contracts (v0.1.0@bdc8af, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-bdc8af431d7c/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-bdc8af431d7c/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-bdc8af431d7c/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-bdc8af431d7c/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-bdc8af431d7c/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-bdc8af431d7c/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-bdc8af431d7c/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-bdc8af431d7c/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-bdc8af431d7c/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-bdc8af431d7c/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-bdc8af431d7c/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-bdc8af431d7c/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-bdc8af431d7c/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-bdc8af431d7c/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-bdc8af431d7c/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-bdc8af431d7c/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-bdc8af431d7c/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-bdc8af431d7c/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-bdc8af431d7c/spec" />
       </excluded>
     </library>
     <library name="contracts (v0.1.0@ed37a2, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -38282,12 +38323,14 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/thin/1.7.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/thin-1.7.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/thin-1.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/thin-1.7.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/thin-1.7.2/example" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/thin/1.7.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/thin-1.7.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/thin-1.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/thin-1.7.2/lib" />
