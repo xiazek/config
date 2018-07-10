@@ -12,7 +12,7 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.coffee</mask>
     <mask>*.rb</mask>
+    <mask>*.coffee</mask>
   </component>
 </application>
