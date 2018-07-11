@@ -7983,6 +7983,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/debase-0.2.3.beta1/test" />
       </excluded>
     </library>
+    <library name="debase (v0.2.3.beta2, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/debase-0.2.3.beta2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/debase-0.2.3.beta2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/debase-0.2.3.beta2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/debase-0.2.3.beta2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/debase-0.2.3.beta2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/debase-0.2.3.beta2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/debase-0.2.3.beta2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/debase-0.2.3.beta2/test" />
+      </excluded>
+    </library>
     <library name="debase-ruby_core_source (v0.10.2, RVM: ruby-2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/debase-ruby_core_source-0.10.2/lib" />
@@ -35643,6 +35662,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-debug-ide-0.7.0.beta4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-debug-ide-0.7.0.beta4/ext" />
+      </excluded>
+    </library>
+    <library name="ruby-debug-ide (v0.7.0.beta5, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-debug-ide-0.7.0.beta5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-debug-ide-0.7.0.beta5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-debug-ide-0.7.0.beta5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-debug-ide-0.7.0.beta5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-debug-ide-0.7.0.beta5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-debug-ide-0.7.0.beta5/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-debug-ide-0.7.0.beta5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-debug-ide-0.7.0.beta5/ext" />
       </excluded>
     </library>
     <library name="ruby-graphviz (v1.0.9, RVM: ruby-2.4.2) [gem]">
