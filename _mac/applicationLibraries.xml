@@ -39948,6 +39948,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/statfire-social-gem-a488d0c28433/spec" />
       </excluded>
     </library>
+    <library name="statfire-social (v0.1.1@b89f9f, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/statfire-social-gem-b89f9f899aca/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/statfire-social-gem-b89f9f899aca/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/statfire-social-gem-b89f9f899aca/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/statfire-social-gem-b89f9f899aca/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/statfire-social-gem-b89f9f899aca/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/statfire-social-gem-b89f9f899aca/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/statfire-social-gem-b89f9f899aca/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/statfire-social-gem-b89f9f899aca/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/statfire-social-gem-b89f9f899aca/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/statfire-social-gem-b89f9f899aca/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/statfire-social-gem-b89f9f899aca/spec" />
+      </excluded>
+    </library>
     <library name="statfire-utils (v0.0.3@2659ff, RVM: ruby-2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/bundler/gems/statfire-utils-gem-2659ffca6b2d/bin" />
