@@ -19791,6 +19791,27 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/iconv-1.0.4/test" />
       </excluded>
     </library>
+    <library name="iconv (v1.0.5, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/iconv/1.0.5" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/iconv-1.0.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/iconv-1.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/iconv-1.0.5/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/iconv/1.0.5" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/iconv-1.0.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/iconv-1.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/iconv-1.0.5/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/iconv-1.0.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/iconv-1.0.5/test" />
+      </excluded>
+    </library>
     <library name="inflecto (v0.0.2, RVM: ruby-2.4.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
