@@ -37936,6 +37936,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel-5.9.0/spec" />
       </excluded>
     </library>
+    <library name="sequel-rake (v0.2.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel-rake-0.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel-rake-0.2.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel-rake-0.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel-rake-0.2.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel-rake-0.2.0/test" />
+      </excluded>
+    </library>
     <library name="sequel_pg (v1.10.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
