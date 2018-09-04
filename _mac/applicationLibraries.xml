@@ -111,6 +111,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/aasm-4.12.3/gemfiles" />
       </excluded>
     </library>
+    <library name="acme-client (v2.0.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/acme-client-2.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/acme-client-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/acme-client-2.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/acme-client-2.0.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/acme-client-2.0.0/bin" />
+      </excluded>
+    </library>
     <library name="acsv (v0.0.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -22772,6 +22788,36 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/mailboxer-81cd53d1d1e9/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/mailboxer-81cd53d1d1e9/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/mailboxer-81cd53d1d1e9/gemfiles" />
+      </excluded>
+    </library>
+    <library name="manual_tls_certificate (v0.1.0@5e5604, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/manual-tls-certificate-5e56042be3e8/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/manual-tls-certificate-5e56042be3e8/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/manual-tls-certificate-5e56042be3e8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/manual-tls-certificate-5e56042be3e8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/manual-tls-certificate-5e56042be3e8/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/manual-tls-certificate-5e56042be3e8/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/manual-tls-certificate-5e56042be3e8/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/manual-tls-certificate-5e56042be3e8/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/manual-tls-certificate-5e56042be3e8/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/manual-tls-certificate-5e56042be3e8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/manual-tls-certificate-5e56042be3e8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/manual-tls-certificate-5e56042be3e8/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/manual-tls-certificate-5e56042be3e8/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/manual-tls-certificate-5e56042be3e8/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/manual-tls-certificate-5e56042be3e8/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/manual-tls-certificate-5e56042be3e8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/manual-tls-certificate-5e56042be3e8/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/manual-tls-certificate-5e56042be3e8/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/manual-tls-certificate-5e56042be3e8/config" />
       </excluded>
     </library>
     <library name="marcel (v0.3.2, RVM: ruby-2.4.3) [gem]">
