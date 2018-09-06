@@ -37370,6 +37370,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rubyzip-1.2.1/samples" />
       </excluded>
     </library>
+    <library name="rubyzip (v1.2.2, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rubyzip-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rubyzip-1.2.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rubyzip-1.2.2/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rubyzip-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rubyzip-1.2.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rubyzip-1.2.2/samples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rubyzip-1.2.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rubyzip-1.2.2/samples" />
+      </excluded>
+    </library>
     <library name="rvm (v1.11.3.9, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rvm-1.11.3.9/lib" />
