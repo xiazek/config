@@ -7314,6 +7314,36 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-9d05de66182b/spec" />
       </excluded>
     </library>
+    <library name="contracts (v0.1.0@ae9568, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-ae95680e4346/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-ae95680e4346/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-ae95680e4346/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-ae95680e4346/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-ae95680e4346/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-ae95680e4346/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-ae95680e4346/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-ae95680e4346/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-ae95680e4346/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-ae95680e4346/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-ae95680e4346/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-ae95680e4346/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-ae95680e4346/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-ae95680e4346/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-ae95680e4346/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-ae95680e4346/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-ae95680e4346/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-ae95680e4346/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-ae95680e4346/spec" />
+      </excluded>
+    </library>
     <library name="contracts (v0.1.0@bba37f, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -20556,6 +20586,28 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/intercom-3.5.10/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/intercom-3.5.10/.github" />
+      </excluded>
+    </library>
+    <library name="intercom (v3.5.26, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/intercom-3.5.26/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/intercom-3.5.26/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/intercom-3.5.26/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/intercom-3.5.26/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/intercom-3.5.26/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/intercom-3.5.26/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/intercom-3.5.26/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/intercom-3.5.26/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/intercom-3.5.26/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/intercom-3.5.26/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/intercom-3.5.26/.circleci" />
       </excluded>
     </library>
     <library name="io-console (v0.4.5, RVM: ruby-2.3.1) [gem]">
