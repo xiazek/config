@@ -17524,6 +17524,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/google-api-client-0.23.4/samples" />
       </excluded>
     </library>
+    <library name="google-api-client (v0.23.9, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/google-api-client-0.23.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/google-api-client-0.23.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/google-api-client-0.23.9/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/google-api-client-0.23.9/samples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/google-api-client-0.23.9/generated" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/google-api-client-0.23.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/google-api-client-0.23.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/google-api-client-0.23.9/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/google-api-client-0.23.9/samples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/google-api-client-0.23.9/generated" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/google-api-client-0.23.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/google-api-client-0.23.9/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/google-api-client-0.23.9/samples" />
+      </excluded>
+    </library>
     <library name="googleauth (v0.5.1, RVM: ruby-2.4.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -30388,6 +30412,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/public_suffix-3.0.2/test" />
       </excluded>
     </library>
+    <library name="public_suffix (v3.0.3, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/public_suffix-3.0.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/public_suffix-3.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/public_suffix-3.0.3/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/public_suffix-3.0.3/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/public_suffix-3.0.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/public_suffix-3.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/public_suffix-3.0.3/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/public_suffix-3.0.3/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/public_suffix-3.0.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/public_suffix-3.0.3/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/public_suffix-3.0.3/test" />
+      </excluded>
+    </library>
     <library name="pubnub (v3.8.0, RVM: ruby-2.3.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -41073,6 +41119,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/signet-0.8.1/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/signet-0.8.1/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/signet-0.8.1/website" />
+      </excluded>
+    </library>
+    <library name="signet (v0.9.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/signet-0.9.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/signet-0.9.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/signet-0.9.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/signet-0.9.1/website" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/signet-0.9.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/signet-0.9.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/signet-0.9.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/signet-0.9.1/website" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/signet-0.9.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/signet-0.9.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/signet-0.9.1/website" />
       </excluded>
     </library>
     <library name="simple_form (v3.5.0, RVM: ruby-2.4.2) [gem]">
