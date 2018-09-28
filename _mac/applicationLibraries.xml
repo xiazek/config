@@ -12840,6 +12840,34 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dry-validation-0.12.1/benchmarks" />
       </excluded>
     </library>
+    <library name="dry-validation (v0.12.2, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dry-validation-0.12.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dry-validation-0.12.2/log" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dry-validation-0.12.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dry-validation-0.12.2/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dry-validation-0.12.2/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dry-validation-0.12.2/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dry-validation-0.12.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dry-validation-0.12.2/log" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dry-validation-0.12.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dry-validation-0.12.2/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dry-validation-0.12.2/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dry-validation-0.12.2/benchmarks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dry-validation-0.12.2/log" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dry-validation-0.12.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dry-validation-0.12.2/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dry-validation-0.12.2/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dry-validation-0.12.2/benchmarks" />
+      </excluded>
+    </library>
     <library name="dynamic_form (v1.1.4, RVM: ruby-2.4.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
