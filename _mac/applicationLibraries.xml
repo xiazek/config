@@ -5541,11 +5541,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/byebug/10.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/byebug-10.0.2/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/byebug-10.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/byebug-10.0.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/byebug/10.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/byebug-10.0.2/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/byebug-10.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/byebug-10.0.2/lib" />
@@ -30118,12 +30120,14 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/oj/3.6.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/oj-3.6.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/oj-3.6.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/oj-3.6.4/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/oj-3.6.4/pages" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/oj/3.6.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/oj-3.6.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/oj-3.6.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/oj-3.6.4/test" />
@@ -33385,6 +33389,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.12.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/puma-3.12.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/puma-3.12.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/puma-3.12.0/lib" />
@@ -33392,6 +33397,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/puma-3.12.0/tools" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.12.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/puma-3.12.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/puma-3.12.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/puma-3.12.0/lib" />
@@ -41862,6 +41868,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ruby-prof/0.17.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-prof-0.17.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-prof-0.17.0/doc" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-prof-0.17.0/ext" />
@@ -41870,6 +41877,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-prof-0.17.0/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ruby-prof/0.17.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-prof-0.17.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-prof-0.17.0/doc" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-prof-0.17.0/ext" />
@@ -43865,10 +43873,12 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/sequel_pg/1.11.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel_pg-1.11.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel_pg-1.11.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/sequel_pg/1.11.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel_pg-1.11.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel_pg-1.11.0/lib" />
       </SOURCES>
