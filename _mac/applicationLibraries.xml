@@ -5535,11 +5535,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/byebug/10.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/byebug-10.0.2/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/byebug-10.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/byebug-10.0.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/byebug/10.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/byebug-10.0.2/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/byebug-10.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/byebug-10.0.2/lib" />
@@ -12828,6 +12830,34 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dry-validation-0.12.1/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dry-validation-0.12.1/examples" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dry-validation-0.12.1/benchmarks" />
+      </excluded>
+    </library>
+    <library name="dry-validation (v0.12.2, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dry-validation-0.12.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dry-validation-0.12.2/log" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dry-validation-0.12.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dry-validation-0.12.2/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dry-validation-0.12.2/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dry-validation-0.12.2/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dry-validation-0.12.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dry-validation-0.12.2/log" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dry-validation-0.12.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dry-validation-0.12.2/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dry-validation-0.12.2/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dry-validation-0.12.2/benchmarks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dry-validation-0.12.2/log" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dry-validation-0.12.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dry-validation-0.12.2/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dry-validation-0.12.2/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/dry-validation-0.12.2/benchmarks" />
       </excluded>
     </library>
     <library name="dynamic_form (v1.1.4, RVM: ruby-2.4.1) [gem]" type="rubylib">
@@ -23529,12 +23559,10 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/jaro_winkler/1.5.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/jaro_winkler-1.5.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/jaro_winkler-1.5.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/jaro_winkler/1.5.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/jaro_winkler-1.5.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/jaro_winkler-1.5.1/lib" />
       </SOURCES>
@@ -25798,6 +25826,36 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/mailboxer-81cd53d1d1e9/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/mailboxer-81cd53d1d1e9/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/mailboxer-81cd53d1d1e9/gemfiles" />
+      </excluded>
+    </library>
+    <library name="manual_tls_certificate (v0.1.0@323268, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/manual-tls-certificate-323268caefe9/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/manual-tls-certificate-323268caefe9/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/manual-tls-certificate-323268caefe9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/manual-tls-certificate-323268caefe9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/manual-tls-certificate-323268caefe9/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/manual-tls-certificate-323268caefe9/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/manual-tls-certificate-323268caefe9/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/manual-tls-certificate-323268caefe9/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/manual-tls-certificate-323268caefe9/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/manual-tls-certificate-323268caefe9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/manual-tls-certificate-323268caefe9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/manual-tls-certificate-323268caefe9/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/manual-tls-certificate-323268caefe9/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/manual-tls-certificate-323268caefe9/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/manual-tls-certificate-323268caefe9/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/manual-tls-certificate-323268caefe9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/manual-tls-certificate-323268caefe9/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/manual-tls-certificate-323268caefe9/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/manual-tls-certificate-323268caefe9/config" />
       </excluded>
     </library>
     <library name="manual_tls_certificate (v0.1.0@5e5604, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -29135,7 +29193,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nio4r-2.3.1/spec" />
@@ -29143,7 +29200,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nio4r-2.3.1/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nio4r-2.3.1/spec" />
@@ -29503,7 +29559,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.8.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.8.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.8.4/lib" />
@@ -29513,7 +29568,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.8.4/suppressions" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.8.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.8.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.8.4/lib" />
@@ -30100,12 +30154,14 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/oj/3.6.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/oj-3.6.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/oj-3.6.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/oj-3.6.4/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/oj-3.6.4/pages" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/oj/3.6.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/oj-3.6.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/oj-3.6.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/oj-3.6.4/test" />
@@ -31391,6 +31447,87 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/parser-2.5.1.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/parser-2.5.1.2/doc" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/parser-2.5.1.2/test" />
+      </excluded>
+    </library>
+    <library name="payment-rails-engine (v0.1.0@01c111, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-01c111f205bd/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-01c111f205bd/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-01c111f205bd/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-01c111f205bd/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-01c111f205bd/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-01c111f205bd/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-01c111f205bd/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-01c111f205bd/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-01c111f205bd/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-01c111f205bd/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-01c111f205bd/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-01c111f205bd/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-01c111f205bd/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-01c111f205bd/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-01c111f205bd/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-01c111f205bd/config" />
+      </excluded>
+    </library>
+    <library name="payment-rails-engine (v0.1.0@196e44, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-196e44216915/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-196e44216915/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-196e44216915/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-196e44216915/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-196e44216915/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-196e44216915/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-196e44216915/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-196e44216915/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-196e44216915/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-196e44216915/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-196e44216915/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-196e44216915/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-196e44216915/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-196e44216915/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-196e44216915/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-196e44216915/config" />
+      </excluded>
+    </library>
+    <library name="payment-rails-engine (v0.1.0@835957, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-835957f0c283/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-835957f0c283/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-835957f0c283/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-835957f0c283/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-835957f0c283/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-835957f0c283/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-835957f0c283/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-835957f0c283/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-835957f0c283/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-835957f0c283/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-835957f0c283/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-835957f0c283/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-835957f0c283/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-835957f0c283/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-835957f0c283/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-835957f0c283/config" />
       </excluded>
     </library>
     <library name="payment_rails_engine (v0.1.0@02cb02, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -33365,6 +33502,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.12.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/puma-3.12.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/puma-3.12.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/puma-3.12.0/lib" />
@@ -33372,6 +33510,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/puma-3.12.0/tools" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.12.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/puma-3.12.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/puma-3.12.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/puma-3.12.0/lib" />
@@ -41842,6 +41981,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ruby-prof/0.17.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-prof-0.17.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-prof-0.17.0/doc" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-prof-0.17.0/ext" />
@@ -41850,6 +41990,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-prof-0.17.0/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ruby-prof/0.17.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-prof-0.17.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-prof-0.17.0/doc" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-prof-0.17.0/ext" />
@@ -43841,10 +43982,12 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/sequel_pg/1.11.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel_pg-1.11.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel_pg-1.11.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/sequel_pg/1.11.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel_pg-1.11.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sequel_pg-1.11.0/lib" />
       </SOURCES>
@@ -50451,12 +50594,10 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/websocket-driver/0.7.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/websocket-driver-0.7.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/websocket-driver-0.7.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/websocket-driver/0.7.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/websocket-driver-0.7.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/websocket-driver-0.7.0/lib" />
       </SOURCES>
