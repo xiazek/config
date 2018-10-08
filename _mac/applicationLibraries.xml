@@ -22139,6 +22139,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/http-2.2.2/spec" />
       </excluded>
     </library>
+    <library name="http (v3.3.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/http-3.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/http-3.3.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/http-3.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/http-3.3.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/http-3.3.0/spec" />
+      </excluded>
+    </library>
     <library name="http-cookie (v1.0.3, RVM: ruby-2.3.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -22265,6 +22281,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/http-form_data-1.0.3/spec" />
+      </excluded>
+    </library>
+    <library name="http-form_data (v2.1.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/http-form_data-2.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/http-form_data-2.1.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/http-form_data-2.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/http-form_data-2.1.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/http-form_data-2.1.1/spec" />
       </excluded>
     </library>
     <library name="http_parser.rb (v0.6.0, RVM: ruby-2.3.1) [gem]" type="rubylib">
@@ -49136,6 +49168,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/twitter-5.15.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="twitter (v6.2.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/twitter-6.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/twitter-6.2.0/lib" />
       </SOURCES>
     </library>
     <library name="tzinfo (v1.2.2, RVM: ruby-2.3.1) [gem]" type="rubylib">
