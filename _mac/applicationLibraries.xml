@@ -32087,6 +32087,33 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-196e44216915/config" />
       </excluded>
     </library>
+    <library name="payment-rails-engine (v0.1.0@23d71c, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-23d71cfbfe6b/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-23d71cfbfe6b/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-23d71cfbfe6b/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-23d71cfbfe6b/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-23d71cfbfe6b/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-23d71cfbfe6b/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-23d71cfbfe6b/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-23d71cfbfe6b/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-23d71cfbfe6b/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-23d71cfbfe6b/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-23d71cfbfe6b/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-23d71cfbfe6b/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-23d71cfbfe6b/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-23d71cfbfe6b/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-23d71cfbfe6b/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-23d71cfbfe6b/config" />
+      </excluded>
+    </library>
     <library name="payment-rails-engine (v0.1.0@6f86fc, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
