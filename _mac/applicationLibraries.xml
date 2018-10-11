@@ -18715,6 +18715,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/font_assets-eeb6ef435ab0/spec" />
       </excluded>
     </library>
+    <library name="foreman (v0.63.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/foreman-0.63.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/foreman-0.63.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/foreman-0.63.0/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/foreman-0.63.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/foreman-0.63.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/foreman-0.63.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/foreman-0.63.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/foreman-0.63.0/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/foreman-0.63.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/foreman-0.63.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/foreman-0.63.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/foreman-0.63.0/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/foreman-0.63.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/foreman-0.63.0/spec" />
+      </excluded>
+    </library>
     <library name="foreman (v0.82.0, RVM: ruby-2.3.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -18863,6 +18888,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/foreman-0.83.0/man" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/foreman-0.83.0/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/foreman-0.83.0/spec" />
+      </excluded>
+    </library>
+    <library name="foreman (v0.85.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/foreman-0.85.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/foreman-0.85.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/foreman-0.85.0/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/foreman-0.85.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/foreman-0.85.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/foreman-0.85.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/foreman-0.85.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/foreman-0.85.0/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/foreman-0.85.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/foreman-0.85.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/foreman-0.85.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/foreman-0.85.0/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/foreman-0.85.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/foreman-0.85.0/spec" />
       </excluded>
     </library>
     <library name="formatador (v0.2.5, RVM: ruby-2.3.1) [gem]" type="rubylib">
@@ -30110,6 +30160,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.8.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.8.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.8.4/lib" />
@@ -30119,6 +30170,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.8.4/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.8.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.8.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.8.4/lib" />
