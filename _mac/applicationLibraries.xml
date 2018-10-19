@@ -31625,6 +31625,33 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/accounts-gem-e415069193f9/spec" />
       </excluded>
     </library>
+    <library name="paladin_common_api (v1.0.0@2ae2d0, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/paladin-common-api-2ae2d0e8aa14/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/paladin-common-api-2ae2d0e8aa14/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/paladin-common-api-2ae2d0e8aa14/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/paladin-common-api-2ae2d0e8aa14/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/paladin-common-api-2ae2d0e8aa14/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/paladin-common-api-2ae2d0e8aa14/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/paladin-common-api-2ae2d0e8aa14/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/paladin-common-api-2ae2d0e8aa14/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/paladin-common-api-2ae2d0e8aa14/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/paladin-common-api-2ae2d0e8aa14/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/paladin-common-api-2ae2d0e8aa14/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/paladin-common-api-2ae2d0e8aa14/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/paladin-common-api-2ae2d0e8aa14/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/paladin-common-api-2ae2d0e8aa14/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/paladin-common-api-2ae2d0e8aa14/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/paladin-common-api-2ae2d0e8aa14/config" />
+      </excluded>
+    </library>
     <library name="paladin_common_api (v1.0.0@543dee, RVM: ruby-2.4.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
