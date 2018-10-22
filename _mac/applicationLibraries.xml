@@ -8297,6 +8297,36 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-6e2f5a5363e3/spec" />
       </excluded>
     </library>
+    <library name="contracts (v0.1.0@907ebc, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-907ebccc90ab/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-907ebccc90ab/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-907ebccc90ab/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-907ebccc90ab/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-907ebccc90ab/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-907ebccc90ab/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-907ebccc90ab/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-907ebccc90ab/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-907ebccc90ab/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-907ebccc90ab/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-907ebccc90ab/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-907ebccc90ab/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-907ebccc90ab/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-907ebccc90ab/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-907ebccc90ab/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-907ebccc90ab/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-907ebccc90ab/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-907ebccc90ab/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/contracts-engine-907ebccc90ab/spec" />
+      </excluded>
+    </library>
     <library name="contracts (v0.1.0@9d05de, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -48012,6 +48042,27 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/switch_user-0.9.5/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/switch_user-0.9.5/config" />
+      </excluded>
+    </library>
+    <library name="switch_user (v1.5.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/switch_user-1.5.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/switch_user-1.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/switch_user-1.5.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/switch_user-1.5.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/switch_user-1.5.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/switch_user-1.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/switch_user-1.5.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/switch_user-1.5.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/switch_user-1.5.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/switch_user-1.5.0/config" />
       </excluded>
     </library>
     <library name="sysexits (v1.2.0, RVM: ruby-2.4.2) [gem]" type="rubylib">
