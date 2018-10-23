@@ -826,6 +826,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/active_model_serializers-0.10.2/.github" />
       </excluded>
     </library>
+    <library name="active_model_serializers (v0.10.7, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/active_model_serializers-0.10.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/active_model_serializers-0.10.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/active_model_serializers-0.10.7/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/active_model_serializers-0.10.7/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/active_model_serializers-0.10.7/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/active_model_serializers-0.10.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/active_model_serializers-0.10.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/active_model_serializers-0.10.7/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/active_model_serializers-0.10.7/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/active_model_serializers-0.10.7/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/active_model_serializers-0.10.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/active_model_serializers-0.10.7/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/active_model_serializers-0.10.7/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/active_model_serializers-0.10.7/.github" />
+      </excluded>
+    </library>
     <library name="active_record_upsert (v0.7.1, RVM: ruby-2.4.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -6424,6 +6449,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/carrierwave-1.2.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="case_transform (v0.2, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/case_transform-0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/case_transform-0.2/lib" />
       </SOURCES>
     </library>
     <library name="ccs (v0.0.1@c6b69b, RVM: ruby-2.3.1) [gem]" type="rubylib">
@@ -24916,6 +24952,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/jsonapi-renderer-0.1.1.beta1/lib" />
       </SOURCES>
     </library>
+    <library name="jsonapi-renderer (v0.2.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/jsonapi-renderer-0.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/jsonapi-renderer-0.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="jsonb_accessor (v1.0.0, RVM: ruby-2.4.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -30596,6 +30643,33 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/notiffany-0.1.1/images" />
+      </excluded>
+    </library>
+    <library name="notifications (v0.1.0@f7690d, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-f7690d41c354/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-f7690d41c354/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-f7690d41c354/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-f7690d41c354/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-f7690d41c354/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-f7690d41c354/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-f7690d41c354/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-f7690d41c354/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-f7690d41c354/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-f7690d41c354/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-f7690d41c354/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-f7690d41c354/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-f7690d41c354/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-f7690d41c354/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-f7690d41c354/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-f7690d41c354/config" />
       </excluded>
     </library>
     <library name="ntlm-http (v0.1.1, RVM: ruby-2.4.1) [gem]" type="rubylib">
