@@ -5996,6 +5996,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/capybara-3.1.1/.yard" />
       </excluded>
     </library>
+    <library name="capybara (v3.10.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/capybara-3.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/capybara-3.10.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/capybara-3.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/capybara-3.10.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/capybara-3.10.0/spec" />
+      </excluded>
+    </library>
     <library name="capybara (v3.7.2, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -40620,6 +40636,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/redline-0.3.4/spec" />
+      </excluded>
+    </library>
+    <library name="regexp_parser (v1.2.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/regexp_parser-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/regexp_parser-1.2.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/regexp_parser-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/regexp_parser-1.2.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/regexp_parser-1.2.0/test" />
       </excluded>
     </library>
     <library name="representable (v3.0.4, RVM: ruby-2.4.1) [gem]" type="rubylib">
