@@ -30762,6 +30762,33 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/notiffany-0.1.1/images" />
       </excluded>
     </library>
+    <library name="notifications (v0.1.0@0fb287, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-0fb287d5fd52/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-0fb287d5fd52/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-0fb287d5fd52/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-0fb287d5fd52/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-0fb287d5fd52/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-0fb287d5fd52/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-0fb287d5fd52/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-0fb287d5fd52/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-0fb287d5fd52/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-0fb287d5fd52/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-0fb287d5fd52/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-0fb287d5fd52/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-0fb287d5fd52/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-0fb287d5fd52/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-0fb287d5fd52/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-0fb287d5fd52/config" />
+      </excluded>
+    </library>
     <library name="notifications (v0.1.0@f62c1a, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
