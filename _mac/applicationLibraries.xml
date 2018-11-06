@@ -4073,6 +4073,33 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/bundler/gems/aws-ses-sns-engine-fb3f50954f88/config" />
       </excluded>
     </library>
+    <library name="aws_ses_sns_engine (v1.2.3@069c29, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/aws-ses-sns-engine-069c29a7c68b/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/aws-ses-sns-engine-069c29a7c68b/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/aws-ses-sns-engine-069c29a7c68b/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/aws-ses-sns-engine-069c29a7c68b/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/aws-ses-sns-engine-069c29a7c68b/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/aws-ses-sns-engine-069c29a7c68b/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/aws-ses-sns-engine-069c29a7c68b/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/aws-ses-sns-engine-069c29a7c68b/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/aws-ses-sns-engine-069c29a7c68b/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/aws-ses-sns-engine-069c29a7c68b/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/aws-ses-sns-engine-069c29a7c68b/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/aws-ses-sns-engine-069c29a7c68b/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/aws-ses-sns-engine-069c29a7c68b/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/aws-ses-sns-engine-069c29a7c68b/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/aws-ses-sns-engine-069c29a7c68b/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/aws-ses-sns-engine-069c29a7c68b/config" />
+      </excluded>
+    </library>
     <library name="aws_ses_sns_engine (v1.2.3@56c9d0, RVM: ruby-2.4.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -17151,6 +17178,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fog-aws-2.0.1/gemfiles" />
       </excluded>
     </library>
+    <library name="fog-aws (v3.3.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fog-aws-3.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fog-aws-3.3.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fog-aws-3.3.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fog-aws-3.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fog-aws-3.3.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fog-aws-3.3.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fog-aws-3.3.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fog-aws-3.3.0/gemfiles" />
+      </excluded>
+    </library>
     <library name="fog-brightbox (v0.11.0, RVM: ruby-2.4.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -17342,6 +17388,25 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fog-core-1.45.0/spec" />
+      </excluded>
+    </library>
+    <library name="fog-core (v2.1.2, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fog-core-2.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fog-core-2.1.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fog-core-2.1.2/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fog-core-2.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fog-core-2.1.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fog-core-2.1.2/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fog-core-2.1.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fog-core-2.1.2/.github" />
       </excluded>
     </library>
     <library name="fog-digitalocean (v0.3.0, RVM: ruby-2.4.3) [gem]" type="rubylib">
@@ -17743,6 +17808,22 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fog-json-1.0.2/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fog-json-1.0.2/gemfiles" />
+      </excluded>
+    </library>
+    <library name="fog-json (v1.2.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fog-json-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fog-json-1.2.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fog-json-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fog-json-1.2.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fog-json-1.2.0/test" />
       </excluded>
     </library>
     <library name="fog-local (v0.3.0, RVM: ruby-2.4.2) [gem]" type="rubylib">
@@ -21766,6 +21847,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/hashie-3.5.7/spec" />
+      </excluded>
+    </library>
+    <library name="hashie (v3.6.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/hashie-3.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/hashie-3.6.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/hashie-3.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/hashie-3.6.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/hashie-3.6.0/spec" />
       </excluded>
     </library>
     <library name="heroics (v0.0.22, RVM: ruby-2.4.2) [gem]" type="rubylib">
