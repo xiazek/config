@@ -15,5 +15,6 @@
     <mask>*.coffee</mask>
     <mask>*.yml</mask>
     <mask>*.rb</mask>
+    <mask>fac*.rb</mask>
   </component>
 </application>
