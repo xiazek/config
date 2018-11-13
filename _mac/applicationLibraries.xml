@@ -11807,6 +11807,35 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/doorkeeper-4.4.1/gemfiles" />
       </excluded>
     </library>
+    <library name="doorkeeper (v4.4.3, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/doorkeeper-4.4.3/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/doorkeeper-4.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/doorkeeper-4.4.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/doorkeeper-4.4.3/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/doorkeeper-4.4.3/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/doorkeeper-4.4.3/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/doorkeeper-4.4.3/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/doorkeeper-4.4.3/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/doorkeeper-4.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/doorkeeper-4.4.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/doorkeeper-4.4.3/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/doorkeeper-4.4.3/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/doorkeeper-4.4.3/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/doorkeeper-4.4.3/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/doorkeeper-4.4.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/doorkeeper-4.4.3/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/doorkeeper-4.4.3/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/doorkeeper-4.4.3/gemfiles" />
+      </excluded>
+    </library>
     <library name="dotenv (v2.1.1, RVM: ruby-2.3.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
