@@ -851,6 +851,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/active_model_serializers-0.10.7/.github" />
       </excluded>
     </library>
+    <library name="active_model_serializers (v0.10.8, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/active_model_serializers-0.10.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/active_model_serializers-0.10.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/active_model_serializers-0.10.8/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/active_model_serializers-0.10.8/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/active_model_serializers-0.10.8/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/active_model_serializers-0.10.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/active_model_serializers-0.10.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/active_model_serializers-0.10.8/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/active_model_serializers-0.10.8/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/active_model_serializers-0.10.8/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/active_model_serializers-0.10.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/active_model_serializers-0.10.8/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/active_model_serializers-0.10.8/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/active_model_serializers-0.10.8/.github" />
+      </excluded>
+    </library>
     <library name="active_record_upsert (v0.7.1, RVM: ruby-2.4.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -8446,6 +8471,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/concurrent-ruby-1.1.2/ext" />
+      </excluded>
+    </library>
+    <library name="concurrent-ruby (v1.1.3, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/concurrent-ruby-1.1.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/concurrent-ruby-1.1.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/concurrent-ruby-1.1.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/concurrent-ruby-1.1.3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/concurrent-ruby-1.1.3/ext" />
       </excluded>
     </library>
     <library name="configatron (v4.5.0, RVM: ruby-2.3.1) [gem]" type="rubylib">
@@ -31603,6 +31644,33 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-0fb287d5fd52/config" />
       </excluded>
     </library>
+    <library name="notifications (v0.1.0@6f80f9, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-6f80f9653e82/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-6f80f9653e82/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-6f80f9653e82/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-6f80f9653e82/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-6f80f9653e82/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-6f80f9653e82/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-6f80f9653e82/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-6f80f9653e82/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-6f80f9653e82/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-6f80f9653e82/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-6f80f9653e82/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-6f80f9653e82/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-6f80f9653e82/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-6f80f9653e82/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-6f80f9653e82/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/notifications-gem-6f80f9653e82/config" />
+      </excluded>
+    </library>
     <library name="notifications (v0.1.0@f62c1a, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -33473,6 +33541,33 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-2cc249e12632/.git" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-2cc249e12632/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-2cc249e12632/config" />
+      </excluded>
+    </library>
+    <library name="payment-rails-engine (v0.1.0@638a29, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-638a2966500c/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-638a2966500c/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-638a2966500c/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-638a2966500c/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-638a2966500c/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-638a2966500c/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-638a2966500c/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-638a2966500c/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-638a2966500c/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-638a2966500c/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-638a2966500c/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-638a2966500c/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-638a2966500c/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-638a2966500c/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-638a2966500c/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-638a2966500c/config" />
       </excluded>
     </library>
     <library name="payment-rails-engine (v0.1.0@6f86fc, RVM: ruby-2.5.1) [gem]" type="rubylib">
