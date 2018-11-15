@@ -5,13 +5,14 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".ruby_version" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-gemset" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern="openexchangerates_cache_test" type="PLAIN_TEXT" />
+      <mapping pattern="sidekiq_exceptions_service" type="PLAIN_TEXT" />
       <mapping pattern=".document" type="PLAIN_TEXT" />
       <mapping pattern="exchange_rates_openexchangerates" type="PLAIN_TEXT" />
       <mapping pattern="Appfile" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
-      <mapping pattern=".complex_methods" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".rspec-local" type="PLAIN_TEXT" />
       <mapping pattern="Brewfile" type="PLAIN_TEXT" />
@@ -21,19 +22,17 @@
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern="headers_example" type="PLAIN_TEXT" />
       <mapping pattern=".rubyversion" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="local" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern="user_info/social_networks" type="PLAIN_TEXT" />
       <mapping pattern=".rspec" type="PLAIN_TEXT" />
-      <mapping pattern=".bash_profile" type="PLAIN_TEXT" />
       <mapping pattern="one_network_direct" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="sidekiq_exceptions_service" type="PLAIN_TEXT" />
+      <mapping pattern=".complex_methods" type="PLAIN_TEXT" />
       <mapping pattern=".pryrc" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
-      <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="arb" type="PLAIN_TEXT" />
       <mapping ext="ruby" type="PLAIN_TEXT" />
