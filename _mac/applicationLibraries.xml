@@ -23324,6 +23324,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/http_parser.rb/0.6.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/http_parser.rb-0.6.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/http_parser.rb-0.6.0/spec" />
@@ -23331,6 +23332,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/http_parser.rb-0.6.0/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/http_parser.rb/0.6.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/http_parser.rb-0.6.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/http_parser.rb-0.6.0/spec" />
@@ -31323,6 +31325,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.8.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.8.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.8.4/lib" />
@@ -31332,6 +31335,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.8.4/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.8.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.8.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.8.4/lib" />
@@ -40973,11 +40977,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rb-fsevent/0.9.7" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rb-fsevent-0.9.7/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rb-fsevent-0.9.7/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rb-fsevent-0.9.7/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rb-fsevent/0.9.7" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rb-fsevent-0.9.7/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rb-fsevent-0.9.7/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rb-fsevent-0.9.7/lib" />
