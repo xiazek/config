@@ -25737,6 +25737,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/jbuilder-2.7.0/gemfiles" />
       </excluded>
     </library>
+    <library name="jbuilder (v2.8.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/jbuilder-2.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/jbuilder-2.8.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/jbuilder-2.8.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/jbuilder-2.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/jbuilder-2.8.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/jbuilder-2.8.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/jbuilder-2.8.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/jbuilder-2.8.0/gemfiles" />
+      </excluded>
+    </library>
     <library name="jmespath (v1.3.1, RVM: ruby-2.3.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -28808,6 +28827,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/method_source-0.9.1/spec" />
+      </excluded>
+    </library>
+    <library name="method_source (v0.9.2, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/method_source-0.9.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/method_source-0.9.2/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/method_source-0.9.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/method_source-0.9.2/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/method_source-0.9.2/spec" />
       </excluded>
     </library>
     <library name="mime-types (v2.99.3, RVM: ruby-2.3.1) [gem]" type="rubylib">
@@ -51969,6 +52004,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4/gems/thor-0.20.3/bin" />
       </excluded>
     </library>
+    <library name="thor (v0.20.3, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/thor-0.20.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/thor-0.20.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/thor-0.20.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/thor-0.20.3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/thor-0.20.3/bin" />
+      </excluded>
+    </library>
     <library name="thread (v0.2.2, RVM: ruby-2.4.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -53169,6 +53220,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/uglifier-4.1.15/lib" />
+      </SOURCES>
+    </library>
+    <library name="uglifier (v4.1.20, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/uglifier-4.1.20/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/uglifier-4.1.20/lib" />
       </SOURCES>
     </library>
     <library name="ultrahook (v0.1.5, RVM: ruby-2.5.1) [gem]" type="rubylib">
