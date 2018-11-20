@@ -3386,6 +3386,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/atom-tools-2.0.5/test" />
       </excluded>
     </library>
+    <library name="attr_encrypted (v3.1.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/attr_encrypted-3.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/attr_encrypted-3.1.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/attr_encrypted-3.1.0/certs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/attr_encrypted-3.1.0/checksum" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/attr_encrypted-3.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/attr_encrypted-3.1.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/attr_encrypted-3.1.0/certs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/attr_encrypted-3.1.0/checksum" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/attr_encrypted-3.1.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/attr_encrypted-3.1.0/certs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/attr_encrypted-3.1.0/checksum" />
+      </excluded>
+    </library>
     <library name="attr_extras (v5.1.0, RVM: ruby-2.4.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -5039,13 +5061,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bindex/0.5.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/bindex-0.5.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/bindex-0.5.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/bindex-0.5.0/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bindex/0.5.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/bindex-0.5.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/bindex-0.5.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/bindex-0.5.0/test" />
@@ -6089,13 +6109,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/byebug/10.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/byebug-10.0.2/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/byebug-10.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/byebug-10.0.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/byebug/10.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/byebug-10.0.2/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/byebug-10.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/byebug-10.0.2/lib" />
@@ -14899,6 +14917,28 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/email_validator-abdda0e20548/.git" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/email_validator-abdda0e20548/spec" />
+      </excluded>
+    </library>
+    <library name="encryptor (v3.0.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/encryptor-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/encryptor-3.0.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/encryptor-3.0.0/certs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/encryptor-3.0.0/checksum" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/encryptor-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/encryptor-3.0.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/encryptor-3.0.0/certs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/encryptor-3.0.0/checksum" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/encryptor-3.0.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/encryptor-3.0.0/certs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/encryptor-3.0.0/checksum" />
       </excluded>
     </library>
     <library name="equalizer (v0.0.10, RVM: ruby-2.4.2) [gem]" type="rubylib">
@@ -32066,7 +32106,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.8.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.8.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.8.4/lib" />
@@ -32076,7 +32115,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.8.4/suppressions" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.8.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.8.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.8.4/lib" />
@@ -36827,7 +36865,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.12.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/puma-3.12.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/puma-3.12.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/puma-3.12.0/lib" />
@@ -36835,7 +36872,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/puma-3.12.0/tools" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.12.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/puma-3.12.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/puma-3.12.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/puma-3.12.0/lib" />
@@ -50670,7 +50706,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/sqlite3/1.3.13" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sqlite3-1.3.13/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sqlite3-1.3.13/faq" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sqlite3-1.3.13/lib" />
@@ -50678,7 +50713,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sqlite3-1.3.13/tasks" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/sqlite3/1.3.13" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sqlite3-1.3.13/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sqlite3-1.3.13/faq" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sqlite3-1.3.13/lib" />
