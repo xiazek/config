@@ -317,6 +317,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/actioncable-5.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="actioncable (v5.2.1.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/actioncable-5.2.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/actioncable-5.2.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="actionmailer (v4.2.10, RVM: ruby-2.4.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -491,6 +502,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/actionmailer-5.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionmailer (v5.2.1.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/actionmailer-5.2.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/actionmailer-5.2.1.1/lib" />
       </SOURCES>
     </library>
     <library name="actionpack (v4.2.10, RVM: ruby-2.4.1) [gem]" type="rubylib">
@@ -669,6 +691,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/actionpack-5.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="actionpack (v5.2.1.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/actionpack-5.2.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/actionpack-5.2.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="actionview (v4.2.10, RVM: ruby-2.4.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -843,6 +876,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/actionview-5.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v5.2.1.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/actionview-5.2.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/actionview-5.2.1.1/lib" />
       </SOURCES>
     </library>
     <library name="active_model_serializers (v0.10.2, RVM: ruby-2.3.1) [gem]" type="rubylib">
@@ -1427,6 +1471,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/activejob-5.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="activejob (v5.2.1.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/activejob-5.2.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/activejob-5.2.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="activemodel (v4.2.10, RVM: ruby-2.4.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -1601,6 +1656,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/activemodel-5.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="activemodel (v5.2.1.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/activemodel-5.2.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/activemodel-5.2.1.1/lib" />
       </SOURCES>
     </library>
     <library name="activemodel-serializers-xml (v1.0.2, RVM: ruby-2.4.2) [gem]" type="rubylib">
@@ -1903,6 +1969,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.1/examples" />
       </excluded>
     </library>
+    <library name="activerecord (v5.2.1.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.1.1/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.1.1/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.1.1/examples" />
+      </excluded>
+    </library>
     <library name="activerecord-import (v0.19.1, RVM: ruby-2.4.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -2094,6 +2176,27 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/activestorage-5.2.1/db" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/activestorage-5.2.1/config" />
+      </excluded>
+    </library>
+    <library name="activestorage (v5.2.1.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/activestorage-5.2.1.1/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/activestorage-5.2.1.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/activestorage-5.2.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/activestorage-5.2.1.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/activestorage-5.2.1.1/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/activestorage-5.2.1.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/activestorage-5.2.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/activestorage-5.2.1.1/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/activestorage-5.2.1.1/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/activestorage-5.2.1.1/config" />
       </excluded>
     </library>
     <library name="activesupport (v4.2.10, RVM: ruby-2.4.1) [gem]" type="rubylib">
@@ -2292,6 +2395,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/activesupport-5.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v5.2.1.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/activesupport-5.2.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/activesupport-5.2.1.1/lib" />
       </SOURCES>
     </library>
     <library name="acts-as-taggable-on (v4.0.0, RVM: ruby-2.4.2) [gem]" type="rubylib">
@@ -34872,6 +34986,33 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-7bf1f8759910/config" />
       </excluded>
     </library>
+    <library name="payment-rails-engine (v0.1.0@812118, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-812118d0b6e4/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-812118d0b6e4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-812118d0b6e4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-812118d0b6e4/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-812118d0b6e4/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-812118d0b6e4/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-812118d0b6e4/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-812118d0b6e4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-812118d0b6e4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-812118d0b6e4/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-812118d0b6e4/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-812118d0b6e4/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-812118d0b6e4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-812118d0b6e4/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-812118d0b6e4/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/payment-rails-engine-812118d0b6e4/config" />
+      </excluded>
+    </library>
     <library name="payment-rails-engine (v0.1.0@835957, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -38986,6 +39127,13 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="rails (v5.2.1.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="rails-assets-angular (v1.4.9, RVM: ruby-2.4.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -41462,6 +41610,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/railties-5.2.1/exe" />
+      </excluded>
+    </library>
+    <library name="railties (v5.2.1.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/railties-5.2.1.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/railties-5.2.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/railties-5.2.1.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/railties-5.2.1.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/railties-5.2.1.1/exe" />
       </excluded>
     </library>
     <library name="rainbow (v2.1.0, RVM: ruby-2.3.1) [gem]" type="rubylib">
