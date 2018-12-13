@@ -4945,6 +4945,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/azure-storage-0.15.0.preview/lib" />
       </SOURCES>
     </library>
+    <library name="azure-storage-blob (v1.1.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/azure-storage-blob-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/azure-storage-blob-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="azure-storage-common (v1.1.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/azure-storage-common-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/azure-storage-common-1.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="babel-source (v5.8.35, RVM: ruby-2.4.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
