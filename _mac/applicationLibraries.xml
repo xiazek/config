@@ -5724,13 +5724,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bindex/0.5.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/bindex-0.5.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/bindex-0.5.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/bindex-0.5.0/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bindex/0.5.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/bindex-0.5.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/bindex-0.5.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/bindex-0.5.0/test" />
@@ -5998,13 +5996,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bootsnap/1.3.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/bootsnap-1.3.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/bootsnap-1.3.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/bootsnap-1.3.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bootsnap/1.3.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/bootsnap-1.3.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/bootsnap-1.3.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/bootsnap-1.3.2/lib" />
@@ -19210,13 +19206,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ffi/1.9.25" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ffi-1.9.25/samples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ffi/1.9.25" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ffi-1.9.25/samples" />
@@ -27447,12 +27441,10 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/jaro_winkler/1.5.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/jaro_winkler-1.5.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/jaro_winkler-1.5.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/jaro_winkler/1.5.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/jaro_winkler-1.5.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/jaro_winkler-1.5.1/lib" />
       </SOURCES>
@@ -34382,14 +34374,12 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.9.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.9.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.9.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.9.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.9.1/patches" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.9.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.9.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.9.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.9.1/lib" />
@@ -37720,13 +37710,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/pg/1.1.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pg-1.1.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pg-1.1.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pg-1.1.3/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/pg/1.1.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pg-1.1.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pg-1.1.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pg-1.1.3/spec" />
@@ -39674,7 +39662,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.12.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/puma-3.12.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/puma-3.12.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/puma-3.12.0/lib" />
@@ -39682,7 +39669,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/puma-3.12.0/tools" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.12.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/puma-3.12.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/puma-3.12.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/puma-3.12.0/lib" />
@@ -52328,6 +52314,43 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/shoulda-matchers-4.0.0.rc1/script" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/shoulda-matchers-4.0.0.rc1/gemfiles" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/shoulda-matchers-4.0.0.rc1/doc_config" />
+      </excluded>
+    </library>
+    <library name="shoulda-matchers (v4.0.0.rc1, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/shoulda-matchers-4.0.0.rc1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/shoulda-matchers-4.0.0.rc1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/shoulda-matchers-4.0.0.rc1/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/shoulda-matchers-4.0.0.rc1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/shoulda-matchers-4.0.0.rc1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/shoulda-matchers-4.0.0.rc1/.hound" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/shoulda-matchers-4.0.0.rc1/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/shoulda-matchers-4.0.0.rc1/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/shoulda-matchers-4.0.0.rc1/doc_config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/shoulda-matchers-4.0.0.rc1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/shoulda-matchers-4.0.0.rc1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/shoulda-matchers-4.0.0.rc1/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/shoulda-matchers-4.0.0.rc1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/shoulda-matchers-4.0.0.rc1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/shoulda-matchers-4.0.0.rc1/.hound" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/shoulda-matchers-4.0.0.rc1/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/shoulda-matchers-4.0.0.rc1/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/shoulda-matchers-4.0.0.rc1/doc_config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/shoulda-matchers-4.0.0.rc1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/shoulda-matchers-4.0.0.rc1/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/shoulda-matchers-4.0.0.rc1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/shoulda-matchers-4.0.0.rc1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/shoulda-matchers-4.0.0.rc1/.hound" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/shoulda-matchers-4.0.0.rc1/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/shoulda-matchers-4.0.0.rc1/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/shoulda-matchers-4.0.0.rc1/doc_config" />
       </excluded>
     </library>
     <library name="sidekiq (v3.3.4, RVM: ruby-2.4.4) [gem]" type="rubylib">
